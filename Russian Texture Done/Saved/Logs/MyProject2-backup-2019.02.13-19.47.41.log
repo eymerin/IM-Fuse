@@ -1,0 +1,1877 @@
+﻿Log file open, 02/13/19 12:15:18
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MyProject2
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.273432
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin HoudiniEngine
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.084s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4613538
+LogInit: Engine Version: 4.21.1-4613538+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-8809G CPU @ 3.10GHz, GPU: Radeon RX Vega M GH Graphics
+LogInit: Compiled (64-bit): Nov 30 2018 04:13:25
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.02.13-19.15.18:780][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.02.13-19.15.18:780][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.02.13-19.15.18:780][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Saved/Config/Windows/Engine.ini]
+[2019.02.13-19.15.18:781][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.02.13-19.15.18:781][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Saved/Config/Windows/Engine.ini]
+[2019.02.13-19.15.18:781][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Saved/Config/Windows/Engine.ini]
+[2019.02.13-19.15.18:781][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.02.13-19.15.18:781][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.02.13-19.15.18:781][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.02.13-19.15.18:781][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.02.13-19.15.18:781][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.02.13-19.15.18:781][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.02.13-19.15.18:781][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.02.13-19.15.18:781][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.02.13-19.15.18:781][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.02.13-19.15.18:781][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.02.13-19.15.18:781][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.02.13-19.15.18:781][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.02.13-19.15.18:781][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.02.13-19.15.18:781][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Saved/Config/Windows/Engine.ini]
+[2019.02.13-19.15.18:781][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.02.13-19.15.18:781][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.02.13-19.15.18:781][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.02.13-19.15.18:781][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.02.13-19.15.18:781][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.02.13-19.15.18:781][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.02.13-19.15.18:781][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.02.13-19.15.18:781][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.02.13-19.15.18:781][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.02.13-19.15.18:781][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.02.13-19.15.18:781][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.02.13-19.15.18:781][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.02.13-19.15.18:781][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.02.13-19.15.18:781][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.02.13-19.15.18:781][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Saved/Config/Windows/Engine.ini]
+[2019.02.13-19.15.18:781][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Saved/Config/Windows/Engine.ini]
+[2019.02.13-19.15.18:784][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Saved/Config/Windows/Scalability.ini]
+[2019.02.13-19.15.18:784][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.02.13-19.15.18:784][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.02.13-19.15.18:784][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Saved/Config/Windows/Scalability.ini]
+[2019.02.13-19.15.18:784][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.02.13-19.15.18:784][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Saved/Config/Windows/Scalability.ini]
+[2019.02.13-19.15.18:784][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.02.13-19.15.18:784][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.02.13-19.15.18:784][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.02.13-19.15.18:784][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.02.13-19.15.18:784][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.02.13-19.15.18:784][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.02.13-19.15.18:784][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.02.13-19.15.18:784][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.02.13-19.15.18:784][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.02.13-19.15.18:784][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.02.13-19.15.18:784][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.02.13-19.15.18:784][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.02.13-19.15.18:784][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.02.13-19.15.18:784][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.02.13-19.15.18:784][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.02.13-19.15.18:784][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.02.13-19.15.18:784][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.02.13-19.15.18:784][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.02.13-19.15.18:784][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Saved/Config/Windows/Scalability.ini]
+[2019.02.13-19.15.18:784][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.02.13-19.15.18:784][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.02.13-19.15.18:784][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.02.13-19.15.18:784][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.02.13-19.15.18:784][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.02.13-19.15.18:784][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.02.13-19.15.18:784][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.02.13-19.15.18:784][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.02.13-19.15.18:784][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.02.13-19.15.18:784][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.02.13-19.15.18:784][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.02.13-19.15.18:784][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.02.13-19.15.18:784][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.02.13-19.15.18:784][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.02.13-19.15.18:784][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.02.13-19.15.18:784][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.02.13-19.15.18:784][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.02.13-19.15.18:784][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.02.13-19.15.18:784][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.02.13-19.15.18:784][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.02.13-19.15.18:784][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.02.13-19.15.18:784][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.02.13-19.15.18:784][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.02.13-19.15.18:784][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.02.13-19.15.18:784][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.02.13-19.15.18:785][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.02.13-19.15.18:785][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.02.13-19.15.18:785][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.02.13-19.15.18:785][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.02.13-19.15.18:785][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.02.13-19.15.18:785][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Saved/Config/Windows/Scalability.ini]
+[2019.02.13-19.15.18:785][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.02.13-19.15.18:785][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.02.13-19.15.18:785][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.02.13-19.15.18:785][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.02.13-19.15.18:785][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.02.13-19.15.18:785][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.02.13-19.15.18:785][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.02.13-19.15.18:785][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.02.13-19.15.18:785][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Saved/Config/Windows/Scalability.ini]
+[2019.02.13-19.15.18:785][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.02.13-19.15.18:785][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.02.13-19.15.18:785][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.02.13-19.15.18:785][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.02.13-19.15.18:785][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.02.13-19.15.18:785][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.02.13-19.15.18:785][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.02.13-19.15.18:785][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.02.13-19.15.18:785][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.02.13-19.15.18:785][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.02.13-19.15.18:785][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.02.13-19.15.18:785][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.02.13-19.15.18:785][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.02.13-19.15.18:785][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Saved/Config/Windows/Scalability.ini]
+[2019.02.13-19.15.18:785][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.02.13-19.15.18:785][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.02.13-19.15.18:785][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.13-19.15.18:785][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.02.13-19.15.18:796][  0]LogHAL: Display: Platform has ~ 16 GB [17094942720 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.02.13-19.15.18:796][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.02.13-19.15.18:796][  0]LogInit: Going up to parent DeviceProfile []
+[2019.02.13-19.15.18:796][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Saved/Config/Windows/Scalability.ini]
+[2019.02.13-19.15.18:796][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.02.13-19.15.18:796][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.02.13-19.15.18:796][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Saved/Config/Windows/Scalability.ini]
+[2019.02.13-19.15.18:796][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.02.13-19.15.18:796][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Saved/Config/Windows/Scalability.ini]
+[2019.02.13-19.15.18:796][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.02.13-19.15.18:796][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.02.13-19.15.18:796][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.02.13-19.15.18:796][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.02.13-19.15.18:796][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.02.13-19.15.18:796][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.02.13-19.15.18:796][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.02.13-19.15.18:796][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.02.13-19.15.18:796][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.02.13-19.15.18:796][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.02.13-19.15.18:796][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.02.13-19.15.18:796][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.02.13-19.15.18:796][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.02.13-19.15.18:796][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.02.13-19.15.18:796][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.02.13-19.15.18:796][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.02.13-19.15.18:796][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.02.13-19.15.18:796][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.02.13-19.15.18:796][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Saved/Config/Windows/Scalability.ini]
+[2019.02.13-19.15.18:796][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.02.13-19.15.18:796][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.02.13-19.15.18:796][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.02.13-19.15.18:796][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.02.13-19.15.18:797][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.02.13-19.15.18:797][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.02.13-19.15.18:797][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.02.13-19.15.18:797][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.02.13-19.15.18:797][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.02.13-19.15.18:797][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.02.13-19.15.18:797][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.02.13-19.15.18:797][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.02.13-19.15.18:797][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.02.13-19.15.18:797][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.02.13-19.15.18:797][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.02.13-19.15.18:797][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.02.13-19.15.18:797][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.02.13-19.15.18:797][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.02.13-19.15.18:797][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.02.13-19.15.18:797][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.02.13-19.15.18:797][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.02.13-19.15.18:797][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.02.13-19.15.18:797][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.02.13-19.15.18:797][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.02.13-19.15.18:797][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.02.13-19.15.18:797][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.02.13-19.15.18:797][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.02.13-19.15.18:797][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.02.13-19.15.18:797][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.02.13-19.15.18:797][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.02.13-19.15.18:797][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Saved/Config/Windows/Scalability.ini]
+[2019.02.13-19.15.18:797][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.02.13-19.15.18:797][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.02.13-19.15.18:797][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.02.13-19.15.18:797][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.02.13-19.15.18:797][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.02.13-19.15.18:797][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.02.13-19.15.18:797][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.02.13-19.15.18:797][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.02.13-19.15.18:797][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Saved/Config/Windows/Scalability.ini]
+[2019.02.13-19.15.18:797][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.02.13-19.15.18:797][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.02.13-19.15.18:797][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.02.13-19.15.18:797][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.02.13-19.15.18:797][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.02.13-19.15.18:797][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.02.13-19.15.18:797][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.02.13-19.15.18:797][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.02.13-19.15.18:797][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.02.13-19.15.18:797][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.02.13-19.15.18:797][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.02.13-19.15.18:797][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.02.13-19.15.18:797][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.02.13-19.15.18:797][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Saved/Config/Windows/Scalability.ini]
+[2019.02.13-19.15.18:797][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.02.13-19.15.18:797][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.02.13-19.15.18:797][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.02.13-19.15.18:797][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.02.13-19.15.18:797][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Saved/Config/Windows/Engine.ini]
+[2019.02.13-19.15.18:797][  0]LogInit: Computer: eae-n-077
+[2019.02.13-19.15.18:797][  0]LogInit: User: u0957469
+[2019.02.13-19.15.18:797][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.02.13-19.15.18:797][  0]LogInit: High frequency timer resolution =3.023439 MHz
+[2019.02.13-19.15.18:798][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.02.13-19.15.18:798][  0]LogMemory: Platform Memory Stats for Windows
+[2019.02.13-19.15.18:798][  0]LogMemory: Process Physical Memory: 102.82 MB used, 102.82 MB peak
+[2019.02.13-19.15.18:798][  0]LogMemory: Process Virtual Memory: 89.78 MB used, 89.78 MB peak
+[2019.02.13-19.15.18:798][  0]LogMemory: Physical Memory: 7939.82 MB used,  8363.19 MB free, 16303.01 MB total
+[2019.02.13-19.15.18:798][  0]LogMemory: Virtual Memory: 4646.31 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2019.02.13-19.15.18:825][  0]LogInit: Using OS detected language (en-US).
+[2019.02.13-19.15.18:825][  0]LogInit: Using OS detected locale (en-US).
+[2019.02.13-19.15.18:826][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.02.13-19.15.19:177][  0]LogStreaming: Display: Took  0.352s to InitEngineTextLocalization.
+[2019.02.13-19.15.19:177][  0]LogInit: Setting process to per monitor DPI aware
+[2019.02.13-19.15.19:514][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.02.13-19.15.19:514][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.02.13-19.15.19:691][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.02.13-19.15.19:691][  0]LogD3D11RHI: D3D11 adapters:
+[2019.02.13-19.15.19:721][  0]LogD3D11RHI:    0. 'Radeon RX Vega M GH Graphics' (Feature Level 11_0)
+[2019.02.13-19.15.19:721][  0]LogD3D11RHI:       4042/0/8151 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2019.02.13-19.15.19:733][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.02.13-19.15.19:733][  0]LogD3D11RHI:       128/0/8151 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.02.13-19.15.19:735][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.02.13-19.15.19:735][  0]LogD3D11RHI:       0/0/8151 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.02.13-19.15.19:735][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.02.13-19.15.19:746][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.02.13-19.15.19:746][  0]LogD3D11RHI:     GPU DeviceId: 0x694c (for the marketing name, search the web for "GPU Device Id")
+[2019.02.13-19.15.19:746][  0]LogWindows: EnumDisplayDevices:
+[2019.02.13-19.15.19:746][  0]LogWindows:    0. 'Radeon RX Vega M GH Graphics' (P:1 D:1)
+[2019.02.13-19.15.19:747][  0]LogWindows:    1. 'Radeon RX Vega M GH Graphics' (P:0 D:0)
+[2019.02.13-19.15.19:747][  0]LogWindows:    2. 'Radeon RX Vega M GH Graphics' (P:0 D:0)
+[2019.02.13-19.15.19:747][  0]LogWindows:    3. 'Radeon RX Vega M GH Graphics' (P:0 D:0)
+[2019.02.13-19.15.19:747][  0]LogWindows:    4. 'Radeon RX Vega M GH Graphics' (P:0 D:0)
+[2019.02.13-19.15.19:748][  0]LogWindows:    5. 'Radeon RX Vega M GH Graphics' (P:0 D:0)
+[2019.02.13-19.15.19:748][  0]LogWindows:    6. 'Radeon RX Vega M GH Graphics' (P:0 D:0)
+[2019.02.13-19.15.19:748][  0]LogWindows:    7. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.02.13-19.15.19:748][  0]LogWindows:    8. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.02.13-19.15.19:748][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:7 
+[2019.02.13-19.15.19:748][  0]LogD3D11RHI:     Adapter Name: Radeon RX Vega M GH Graphics
+[2019.02.13-19.15.19:748][  0]LogD3D11RHI:   Driver Version: Adrenalin 18.9.1 (internal:24.20.11026.2001, unified:24.20.11026.2001)
+[2019.02.13-19.15.19:748][  0]LogD3D11RHI:      Driver Date: 8-30-2018
+[2019.02.13-19.15.19:748][  0]LogRHI: Texture pool is 2829 MB (70% of 4042 MB)
+[2019.02.13-19.15.19:819][  0]LogD3D11RHI: Async texture creation enabled
+[2019.02.13-19.15.19:830][  0]LogD3D11RHI: GPU Timing Frequency: 25.000000 (Debug: 2 1)
+[2019.02.13-19.15.20:127][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.02.13-19.15.20:138][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.02.13-19.15.20:152][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.02.13-19.15.20:164][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.02.13-19.15.20:176][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.02.13-19.15.20:193][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.02.13-19.15.20:205][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.02.13-19.15.20:218][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.02.13-19.15.20:224][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.02.13-19.15.20:301][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.13-19.15.20:301][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.13-19.15.20:301][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.13-19.15.20:301][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.13-19.15.20:301][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.13-19.15.20:301][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.13-19.15.20:301][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.13-19.15.20:301][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.13-19.15.20:301][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.13-19.15.20:301][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.13-19.15.20:301][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.13-19.15.20:301][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.13-19.15.20:301][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.13-19.15.20:301][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.13-19.15.20:301][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.13-19.15.20:301][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.13-19.15.20:301][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.13-19.15.20:301][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.13-19.15.20:303][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.02.13-19.15.20:362][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.02.13-19.15.20:362][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.02.13-19.15.20:383][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.02.13-19.15.20:383][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.02.13-19.15.20:393][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.02.13-19.15.20:403][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.02.13-19.15.20:414][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.02.13-19.15.20:431][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.02.13-19.15.20:477][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.02.13-19.15.20:477][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.02.13-19.15.20:477][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.02.13-19.15.20:530][  0]LogShaderCompilers: Guid format shader working directory is -30 characters bigger than the processId version (../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Intermediate/Shaders/WorkingDirectory/16220/).
+[2019.02.13-19.15.20:530][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/u0957469/AppData/Local/Temp/UnrealShaderWorkingDir/5882437942F6EBB474D38F813D3142FC/'.
+[2019.02.13-19.15.20:532][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.02.13-19.15.20:532][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.02.13-19.15.20:532][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.02.13-19.15.21:000][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.02.13-19.15.21:058][  0]LogDerivedDataCache: Loaded boot cache 0.06s 87MB C:/Users/u0957469/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.02.13-19.15.21:058][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/u0957469/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.02.13-19.15.21:058][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.02.13-19.15.21:058][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.02.13-19.15.21:058][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.02.13-19.15.21:058][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.02.13-19.15.21:069][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.02.13-19.15.21:069][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.02.13-19.15.21:069][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.02.13-19.15.21:081][  0]LogDerivedDataCache: Using Local data cache path C:/Users/u0957469/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.02.13-19.15.21:081][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.02.13-19.15.21:081][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.02.13-19.15.21:106][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.02.13-19.15.21:107][  0]LogSlate: Using FreeType 2.6.0
+[2019.02.13-19.15.21:108][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.02.13-19.15.21:187][  0]LogAssetRegistry: FAssetRegistry took 0.0308 seconds to start up
+[2019.02.13-19.15.21:485][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.13-19.15.21:558][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.02.13-19.15.21:562][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.02.13-19.15.21:562][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.02.13-19.15.21:562][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.02.13-19.15.21:562][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.02.13-19.15.21:645][  0]LogNetVersion: MyProject2 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2078931443)
+[2019.02.13-19.15.22:140][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 2 prioritized culture(s) in 0.096077 seconds
+[2019.02.13-19.15.22:152][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.02.13-19.15.22:152][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.02.13-19.15.22:152][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.02.13-19.15.22:984][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.02.13-19.15.23:012][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.02.13-19.15.23:657][  0]SourceControl: Source control is disabled
+[2019.02.13-19.15.23:657][  0]SourceControl: Source control is disabled
+[2019.02.13-19.15.23:658][  0]SourceControl: Source control is disabled
+[2019.02.13-19.15.23:659][  0]SourceControl: Source control is disabled
+[2019.02.13-19.15.23:817][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.02.13-19.15.23:894][  0]LogHoudiniEngine: Starting the Houdini Engine module.
+[2019.02.13-19.15.23:895][  0]LogHoudiniEngine: Loaded libHAPIL.dll from Registry path C:/Program Files/Side Effects Software/Houdini 17.0.416/bin
+[2019.02.13-19.15.23:896][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/HoudiniEngine/Content/houdini_logo.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.02.13-19.15.23:898][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/HoudiniEngine/Content/houdini_default_material.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.02.13-19.15.23:904][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/HoudiniEngine/Content/houdini_bgeo_import.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.02.13-19.15.24:012][  0]LogHoudiniEngine: Starting up the Houdini Engine API module failed: Already Initialized
+[2019.02.13-19.15.24:026][  0]LogOcInput: OculusInput pre-init called
+[2019.02.13-19.15.24:163][  0]LogEngine: Initializing Engine...
+[2019.02.13-19.15.24:164][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.02.13-19.15.24:166][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.02.13-19.15.24:166][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.13-19.15.24:166][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.02.13-19.15.24:166][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.13-19.15.24:397][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.02.13-19.15.24:418][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.02.13-19.15.24:442][  0]LogInit: XAudio2 using '5 - DELL U2414H (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.13-19.15.24:455][  0]LogInit: FAudioDevice initialized.
+[2019.02.13-19.15.24:456][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.02.13-19.15.24:542][  0]LogDerivedDataCache: Saved boot cache 0.09s 87MB C:/Users/u0957469/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.02.13-19.15.24:554][  0]LogInit: Texture streaming: Enabled
+[2019.02.13-19.15.24:572][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.02.13-19.15.24:592][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.02.13-19.15.24:621][  0]LogInit: Transaction tracking system initialized
+[2019.02.13-19.15.24:647][  0]BlueprintLog: New page: Editor Load
+[2019.02.13-19.15.24:726][  0]LocalizationService: Localization service is disabled
+[2019.02.13-19.15.25:236][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Content/' took 0.01s
+[2019.02.13-19.15.25:236][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.02.13-19.15.25:236][  0]LogCook: Display: Mobile HDR setting 1
+[2019.02.13-19.15.25:236][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.02.13-19.15.25:236][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.02.13-19.15.25:236][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.13-19.15.25:236][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.02.13-19.15.25:236][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.13-19.15.25:335][  0]LogHoudiniEngineEditor: Starting the Houdini Engine Editor module.
+[2019.02.13-19.15.25:336][  0]LogHoudiniEngineEditor: Houdini Engine Editor module startup complete.
+[2019.02.13-19.15.25:400][  0]SourceControl: Source control is disabled
+[2019.02.13-19.15.25:400][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.02.13-19.15.25:400][  0]LightingResults: New page: Lighting Build
+[2019.02.13-19.15.25:403][  0]MapCheck: New page: Map Check
+[2019.02.13-19.15.25:403][  0]LightingResults: New page: Lighting Build
+[2019.02.13-19.15.25:606][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2019.02.13-19.15.25:612][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.02.13-19.15.25:635][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.02.13-19.15.25:635][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.122ms to complete.
+[2019.02.13-19.15.25:635][  0]LogFileHelpers: Loading map 'Template_Default' took 0.234
+[2019.02.13-19.15.25:735][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.13-19.15.25:742][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.13-19.15.25:749][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.13-19.15.25:757][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.13-19.15.25:764][  0]LogCollectionManager: Loaded 0 collections in 0.002213 seconds
+[2019.02.13-19.15.25:805][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Saved/Collections/' took 0.01s
+[2019.02.13-19.15.25:805][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Content/Developers/u0957469/Collections/' took 0.01s
+[2019.02.13-19.15.25:805][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Content/Collections/' took 0.01s
+[2019.02.13-19.15.25:805][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.02.13-19.15.25:815][  0]LogContentBrowser: Native class hierarchy populated in 0.0102 seconds. Added 2689 classes and 627 folders.
+[2019.02.13-19.15.25:825][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.02.13-19.15.25:827][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.13-19.15.25:828][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.13-19.15.25:828][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.13-19.15.25:828][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.13-19.15.25:829][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.13-19.15.25:829][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.13-19.15.25:830][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.13-19.15.25:831][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.13-19.15.25:831][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.13-19.15.25:832][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.13-19.15.25:833][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.13-19.15.25:833][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.13-19.15.25:834][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.13-19.15.25:834][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.13-19.15.25:835][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.13-19.15.25:835][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.13-19.15.25:836][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.13-19.15.25:836][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.13-19.15.25:837][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.13-19.15.25:837][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.13-19.15.25:837][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.13-19.15.25:838][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.13-19.15.25:838][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.13-19.15.25:839][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.13-19.15.25:839][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.13-19.15.25:840][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.13-19.15.25:886][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.02.13-19.15.25:892][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.02.13-19.15.25:907][  0]LogSlate: Took 0.000185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.02.13-19.15.25:909][  0]LogSlate: Took 0.000162 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.02.13-19.15.25:915][  0]LogSlate: Took 0.000202 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.02.13-19.15.26:001][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2019.02.13-19.15.26:132][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.13-19.15.26:146][  0]LogSlate: Window 'Tutorials' being destroyed
+[2019.02.13-19.15.26:182][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.02.13-19.15.26:182][  0]LogLoad: (Engine Initialization) Total time: 9.17 seconds
+[2019.02.13-19.15.26:182][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.02.13-19.15.26:244][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.02.13-19.15.26:249][  0]LogSlate: Took 0.000164 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.02.13-19.15.30:265][455]LogSlate: Took 0.000172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.02.13-19.15.32:181][601]LogAssetRegistry: Asset discovery search completed in 11.0164 seconds
+[2019.02.13-19.15.32:184][601]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.02.13-19.15.32:184][601]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000044 seconds (updated 0 objects)
+[2019.02.13-19.15.38:470][ 62]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.13-19.15.40:541][307]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.13-19.15.42:068][480]Cmd: MAP LOAD FILE="../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Content/FuseAssignment.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.02.13-19.15.42:085][480]LightingResults: New page: Lighting Build
+[2019.02.13-19.15.42:086][480]LoadErrors: New page: Loading map: FuseAssignment.umap
+[2019.02.13-19.15.42:088][480]MapCheck: New page: Map Check
+[2019.02.13-19.15.42:088][480]LightingResults: New page: Lighting Build
+[2019.02.13-19.15.42:116][480]LogLinker: Warning: Can't find file '/Game/FuseAssignment_BuiltData'
+[2019.02.13-19.15.42:117][480]LogLinker: Warning: Can't find file for asset '/Game/FuseAssignment_BuiltData' while loading ../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Content/FuseAssignment.umap.
+[2019.02.13-19.15.42:117][480]LoadErrors: Error: /Game/FuseAssignment : Can't find file for asset. /Game/FuseAssignment_BuiltData
+[2019.02.13-19.15.42:156][480]LogLinker: Warning: Can't find file '/Game/FuseAssignment_BuiltData'
+[2019.02.13-19.15.42:157][480]LogLinker: Warning: Can't find file for asset '/Game/FuseAssignment_BuiltData' while loading ../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Content/FuseAssignment.umap.
+[2019.02.13-19.15.42:165][480]LogLinker: Warning: Can't find file '/Game/FuseAssignment_BuiltData'
+[2019.02.13-19.15.42:165][480]LoadErrors: Failed to load /Game/FuseAssignment_BuiltData.FuseAssignment_BuiltData Referenced by PersistentLevel
+[2019.02.13-19.15.42:165][480]LogTexture: Display: Building textures: Russian_Hair_Gloss (AutoDXT, 512X512)
+[2019.02.13-19.15.42:165][480]LogLinker: Warning: Can't find file for asset '/Game/FuseAssignment_BuiltData' while loading NULL.
+[2019.02.13-19.15.42:319][480]LogTexture: Display: Building textures: Russian_Hair_Normal (BC5, 512X512)
+[2019.02.13-19.15.42:319][480]LogTexture: Display: Building textures: Russian_Top_Normal (BC5, 512X512)
+[2019.02.13-19.15.42:319][480]LogTexture: Display: Building textures: Russian_Top_Diffuse (AutoDXT, 512X512)
+[2019.02.13-19.15.42:319][480]LogTexture: Display: Building textures: Russian_Top_Specular (AutoDXT, 512X512)
+[2019.02.13-19.15.42:319][480]LogTexture: Display: Building textures: Russian_Top_Opacity (AutoDXT, 512X512)
+[2019.02.13-19.15.42:319][480]LogTexture: Display: Building textures: Russian_Top_Gloss (AutoDXT, 512X512)
+[2019.02.13-19.15.42:319][480]LogTexture: Display: Building textures: Russian_Hair_Specular (AutoDXT, 512X512)
+[2019.02.13-19.15.42:319][480]LogTexture: Display: Building textures: Russian_Hair_Opacity (AutoDXT, 512X512)
+[2019.02.13-19.15.42:319][480]LogTexture: Display: Building textures: Russian_Body_Gloss (AutoDXT, 1024X1024)
+[2019.02.13-19.15.42:322][480]LogMaterial: Display: Missing cached shader map for material lambert4, compiling. 
+[2019.02.13-19.15.42:579][480]LogTexture: Display: Building textures: Russian_Body_Normal (BC5, 1024X1024)
+[2019.02.13-19.15.42:579][480]LogTexture: Display: Building textures: Russian_Body_Opacity (AutoDXT, 1024X1024)
+[2019.02.13-19.15.42:580][480]LogTexture: Display: Building textures: Russian_Bottom_Normal (BC5, 512X512)
+[2019.02.13-19.15.42:580][480]LogTexture: Display: Building textures: Russian_Bottom_Gloss (AutoDXT, 512X512)
+[2019.02.13-19.15.42:580][480]LogTexture: Display: Building textures: Russian_Bottom_Opacity (AutoDXT, 512X512)
+[2019.02.13-19.15.42:580][480]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.02.13-19.15.42:580][480]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.02.13-19.15.42:580][480]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.02.13-19.15.42:580][480]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.02.13-19.15.42:580][480]LogTexture: Display: Building textures: Russian_Body_Diffuse (AutoDXT, 1024X1024)
+[2019.02.13-19.15.42:580][480]LogTexture: Display: Building textures: Russian_Body_Specular (AutoDXT, 1024X1024)
+[2019.02.13-19.15.42:580][480]LogTexture: Display: Building textures: Russian_Bottom_Diffuse (AutoDXT, 512X512)
+[2019.02.13-19.15.42:580][480]LogTexture: Display: Building textures: Russian_Bottom_Specular (AutoDXT, 512X512)
+[2019.02.13-19.15.42:580][480]LogMaterial: Display: Missing cached shader map for material Topmat, compiling. 
+[2019.02.13-19.15.42:618][480]LogTexture: Display: Building textures: Russian_Hair_Diffuse (AutoDXT, 512X512)
+[2019.02.13-19.15.43:412][480]LogMaterial: Display: Missing cached shader map for material EyeLashMat, compiling. 
+[2019.02.13-19.15.43:531][480]LogSkeletalMesh: Building Skeletal Mesh EyeLashesFixed_Russian...
+[2019.02.13-19.15.43:609][480]LogSkeletalMesh: Built Skeletal Mesh [0.08s] /Game/EyeLashesFixed_Russian.EyeLashesFixed_Russian
+[2019.02.13-19.15.43:614][480]LogMaterial: Display: Missing cached shader map for material Bodymat, compiling. 
+[2019.02.13-19.15.43:651][480]LogMaterial: Display: Missing cached shader map for material Bottommat, compiling. 
+[2019.02.13-19.15.43:690][480]LogMaterial: Display: Missing cached shader map for material Hairmat, compiling. 
+[2019.02.13-19.15.43:779][480]LogAIModule: Creating AISystem for world FuseAssignment
+[2019.02.13-19.15.43:799][480]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.02.13-19.15.43:873][480]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.02.13-19.15.43:874][480]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.176ms to complete.
+[2019.02.13-19.15.43:874][480]LogFileHelpers: Loading map 'FuseAssignment' took 1.807
+[2019.02.13-19.15.43:877][480]LogSlate: Window 'Open Level' being destroyed
+[2019.02.13-19.15.45:358][571]LogShaderCompilers: Display: Shaders left to compile 374
+[2019.02.13-19.15.45:407][575]LogShaderCompilers: Display: Shaders left to compile 364
+[2019.02.13-19.15.46:905][697]LogShaderCompilers: Display: Shaders left to compile 354
+[2019.02.13-19.15.47:166][718]LogShaderCompilers: Display: Shaders left to compile 344
+[2019.02.13-19.15.47:475][744]LogSlate: Window 'Message Log' being destroyed
+[2019.02.13-19.15.47:482][744]LogSlate: Window 'Message Log' being destroyed
+[2019.02.13-19.15.47:645][759]LogShaderCompilers: Display: Shaders left to compile 334
+[2019.02.13-19.15.48:664][849]LogShaderCompilers: Display: Shaders left to compile 324
+[2019.02.13-19.15.48:976][875]LogShaderCompilers: Display: Shaders left to compile 314
+[2019.02.13-19.15.50:275][990]LogShaderCompilers: Display: Shaders left to compile 304
+[2019.02.13-19.15.50:983][ 53]LogShaderCompilers: Display: Shaders left to compile 294
+[2019.02.13-19.15.51:702][122]LogShaderCompilers: Display: Shaders left to compile 284
+[2019.02.13-19.15.52:424][190]LogShaderCompilers: Display: Shaders left to compile 274
+[2019.02.13-19.15.53:444][278]LogShaderCompilers: Display: Shaders left to compile 264
+[2019.02.13-19.15.53:605][291]LogShaderCompilers: Display: Shaders left to compile 254
+[2019.02.13-19.15.56:200][512]LogShaderCompilers: Display: Shaders left to compile 244
+[2019.02.13-19.15.56:883][571]LogShaderCompilers: Display: Shaders left to compile 234
+[2019.02.13-19.15.57:233][603]LogShaderCompilers: Display: Shaders left to compile 224
+[2019.02.13-19.15.58:743][732]LogShaderCompilers: Display: Shaders left to compile 214
+[2019.02.13-19.16.00:684][902]LogShaderCompilers: Display: Shaders left to compile 204
+[2019.02.13-19.16.01:044][935]LogShaderCompilers: Display: Shaders left to compile 194
+[2019.02.13-19.16.01:975][ 19]LogShaderCompilers: Display: Shaders left to compile 184
+[2019.02.13-19.16.02:457][ 63]LogShaderCompilers: Display: Shaders left to compile 174
+[2019.02.13-19.16.03:367][147]LogShaderCompilers: Display: Shaders left to compile 164
+[2019.02.13-19.16.04:172][219]LogShaderCompilers: Display: Shaders left to compile 154
+[2019.02.13-19.16.04:890][282]LogShaderCompilers: Display: Shaders left to compile 144
+[2019.02.13-19.16.05:604][342]LogShaderCompilers: Display: Shaders left to compile 134
+[2019.02.13-19.16.06:310][409]LogShaderCompilers: Display: Shaders left to compile 124
+[2019.02.13-19.16.07:232][488]LogShaderCompilers: Display: Shaders left to compile 114
+[2019.02.13-19.16.07:443][506]LogShaderCompilers: Display: Shaders left to compile 104
+[2019.02.13-19.16.09:006][646]LogShaderCompilers: Display: Shaders left to compile 94
+[2019.02.13-19.16.09:275][669]LogShaderCompilers: Display: Shaders left to compile 84
+[2019.02.13-19.16.10:273][757]LogShaderCompilers: Display: Shaders left to compile 74
+[2019.02.13-19.16.10:273][757]LogShaderCompilers: Display: Shaders left to compile 64
+[2019.02.13-19.16.11:683][878]LogShaderCompilers: Display: Shaders left to compile 54
+[2019.02.13-19.16.13:085][  2]LogShaderCompilers: Display: Shaders left to compile 44
+[2019.02.13-19.16.14:014][ 85]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.02.13-19.16.14:637][139]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.02.13-19.16.16:259][279]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.13-19.16.17:545][384]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.02.13-19.16.21:437][752]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.13-19.16.26:494][194]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/EyeLashesFixed_Russian_Skeleton.EyeLashesFixed_Russian_Skeleton
+[2019.02.13-19.16.26:510][194]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.02.13-19.16.26:813][194]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.02.13-19.16.26:824][194]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0007 seconds. Added 1 classes and 0 folders.
+[2019.02.13-19.16.26:930][194]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.02.13-19.16.27:336][194]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2019.02.13-19.16.34:988][767]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/EyeLashesFixed_Russian.EyeLashesFixed_Russian
+[2019.02.13-19.16.35:004][767]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.02.13-19.16.35:033][767]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.02.13-19.16.39:805][110]LogSlate: Took 0.019690 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.02.13-19.16.49:210][943]LogSlate: Window 'EyeLashesFixed_Russian' being destroyed
+[2019.02.13-19.16.49:217][943]LogSlate: Window 'EyeLashesFixed_Russian' being destroyed
+[2019.02.13-19.16.50:098][  0]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.13-19.16.50:276][ 17]LogAssetEditorManager: Opening Asset editor for PhysicsAsset /Game/EyeLashesFixed_Russian_PhysicsAsset.EyeLashesFixed_Russian_PhysicsAsset
+[2019.02.13-19.16.50:297][ 17]LogContentBrowser: Native class hierarchy updated for 'PhysicsAssetEditor' in 0.0003 seconds. Added 7 classes and 3 folders.
+[2019.02.13-19.16.50:317][ 17]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2019.02.13-19.16.50:545][ 17]LogSlate: Took 0.006565 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.02.13-19.17.05:792][116]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/EyeLashesFixed_Russian.EyeLashesFixed_Russian
+[2019.02.13-19.17.05:802][116]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.02.13-19.17.05:822][116]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.02.13-19.17.19:866][232]LogRenderer: Reallocating scene render targets to support 1208x888 Format 10 NumSamples 1 (Frame:1155).
+[2019.02.13-19.18.12:796][901]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.13-19.18.22:577][452]LogSlate: Window 'EyeLashesFixed_Russian_PhysicsAsset' being destroyed
+[2019.02.13-19.18.31:567][480]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.02.13-19.18.31:567][480]Can't find target actor or component.
+[2019.02.13-19.18.33:612][721]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (EyeLashesFixed_Russian_PhysicsAsset)
+[2019.02.13-19.18.34:488][813]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.02.13-19.19.25:245][556]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.13-19.21.11:351][882]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.13-19.21.24:514][ 70]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.13-19.21.26:735][263]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/EyeLashesFixed_Russian.EyeLashesFixed_Russian
+[2019.02.13-19.21.26:742][263]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.02.13-19.21.26:784][263]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.02.13-19.21.43:009][256]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.13-19.22.12:170][ 42]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.13-19.22.23:340][699]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/EyeLashesFixed_Russian_Skeleton.EyeLashesFixed_Russian_Skeleton
+[2019.02.13-19.22.23:347][699]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.02.13-19.22.23:381][699]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.02.13-19.22.24:541][772]LogAssetEditorManager: Opening Asset editor for PhysicsAsset /Game/EyeLashesFixed_Russian_PhysicsAsset.EyeLashesFixed_Russian_PhysicsAsset
+[2019.02.13-19.22.24:551][772]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2019.02.13-19.22.31:352][187]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.13-19.22.46:911][105]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.13-19.22.54:287][538]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.13-19.24.45:650][122]LogAssetEditorManager: Opening Asset editor for PhysicsAsset /Game/EyeLashesFixed_Russian_PhysicsAsset.EyeLashesFixed_Russian_PhysicsAsset
+[2019.02.13-19.24.45:662][122]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2019.02.13-19.24.57:426][905]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/EyeLashesFixed_Russian_Skeleton.EyeLashesFixed_Russian_Skeleton
+[2019.02.13-19.24.57:433][905]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.02.13-19.24.57:468][905]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.02.13-19.25.06:324][493]LogSlate: Window 'EyeLashesFixed_Russian_PhysicsAsset' being destroyed
+[2019.02.13-19.25.07:635][596]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.13-19.25.35:803][712]LogMetaData: Removing '/Game/Russian_Char/FuseAssignment.SKEL_FuseAssignment_C' ref from Metadata '/Game/FuseAssignment.PackageMetaData'
+[2019.02.13-19.25.35:803][712]LogMetaData: Removing '/Game/Russian_Char/FuseAssignment.FuseAssignment_C' ref from Metadata '/Game/FuseAssignment.PackageMetaData'
+[2019.02.13-19.25.35:803][712]LogMetaData: Removing '/Game/Russian_Char/FuseAssignment.FuseAssignment:PersistentLevel.FuseAssignment.EventGraph.K2Node_Event_0' ref from Metadata '/Game/FuseAssignment.PackageMetaData'
+[2019.02.13-19.25.35:803][712]LogMetaData: Removing '/Game/Russian_Char/FuseAssignment.FuseAssignment:PersistentLevel.FuseAssignment.EventGraph.K2Node_Event_1' ref from Metadata '/Game/FuseAssignment.PackageMetaData'
+[2019.02.13-19.25.35:966][712]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Russian_Char/Topmat" FILE="../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Content/Russian_Char/Topmat.uasset" SILENT=true
+[2019.02.13-19.25.35:993][712]LogSavePackage: Moving '../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Saved/Topmat761853BF47DB8545D97B4CB2B24BF358.tmp' to '../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Content/Russian_Char/Topmat.uasset'
+[2019.02.13-19.25.36:019][712]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Russian_Char/Bodymat" FILE="../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Content/Russian_Char/Bodymat.uasset" SILENT=true
+[2019.02.13-19.25.36:035][712]LogSavePackage: Moving '../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Saved/BodymatB7383708456508857A6AACAEE793F6BB.tmp' to '../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Content/Russian_Char/Bodymat.uasset'
+[2019.02.13-19.25.36:053][712]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Russian_Char/Bottommat" FILE="../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Content/Russian_Char/Bottommat.uasset" SILENT=true
+[2019.02.13-19.25.36:070][712]LogSavePackage: Moving '../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Saved/Bottommat66D8C3FC44288C8265610F8AEC1F4ECC.tmp' to '../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Content/Russian_Char/Bottommat.uasset'
+[2019.02.13-19.25.36:140][712]LogSavePackage: Moving '../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Saved/EyeLashesFixed_Russian56EBB6B84EF1F55FE3EB1AA153EA56DF.tmp' to '../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Content/Russian_Char/EyeLashesFixed_Russian.uasset'
+[2019.02.13-19.25.36:183][712]LogSavePackage: Moving '../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Saved/EyeLashesFixed_Russian_PhysicsAs1241F02A483250C8F0E589AF866BDAD8.tmp' to '../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Content/Russian_Char/EyeLashesFixed_Russian_PhysicsAsset.uasset'
+[2019.02.13-19.25.36:196][712]LogSavePackage: Moving '../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Saved/EyeLashesFixed_Russian_Skeleton8C3A41B44A699893DC0E54B56ECCA0D3.tmp' to '../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Content/Russian_Char/EyeLashesFixed_Russian_Skeleton.uasset'
+[2019.02.13-19.25.36:216][712]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Russian_Char/EyeLashMat" FILE="../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Content/Russian_Char/EyeLashMat.uasset" SILENT=true
+[2019.02.13-19.25.36:233][712]LogSavePackage: Moving '../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Saved/EyeLashMatB82038E34E7EBEEB1937FF834B71EB12.tmp' to '../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Content/Russian_Char/EyeLashMat.uasset'
+[2019.02.13-19.25.36:371][712]LogSavePackage: Moving '../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Saved/FuseAssignment7B7D345F4B609D5B69F514A056681BAD.tmp' to '../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Content/Russian_Char/FuseAssignment.umap'
+[2019.02.13-19.25.36:391][712]LogFileHelpers: Saving map 'FuseAssignment' took 0.154
+[2019.02.13-19.25.36:411][712]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Russian_Char/Hairmat" FILE="../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Content/Russian_Char/Hairmat.uasset" SILENT=true
+[2019.02.13-19.25.36:429][712]LogSavePackage: Moving '../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Saved/Hairmat0A6A37AE45BE0BE62F1E65802ED979B8.tmp' to '../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Content/Russian_Char/Hairmat.uasset'
+[2019.02.13-19.25.36:450][712]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Russian_Char/lambert4" FILE="../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Content/Russian_Char/lambert4.uasset" SILENT=true
+[2019.02.13-19.25.36:464][712]LogSavePackage: Moving '../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Saved/lambert4710E4B504DDDD5F0E7D7079BC383370A.tmp' to '../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Content/Russian_Char/lambert4.uasset'
+[2019.02.13-19.25.36:515][712]LogSavePackage: Moving '../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Saved/Russian_Body_DiffuseC1C4E9F34948391BCA1E249EA6756493.tmp' to '../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Content/Russian_Char/Russian_Body_Diffuse.uasset'
+[2019.02.13-19.25.36:556][712]LogSavePackage: Moving '../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Saved/Russian_Body_Gloss8D27557641F6C7D0E8EB248E7D2D23AC.tmp' to '../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Content/Russian_Char/Russian_Body_Gloss.uasset'
+[2019.02.13-19.25.36:605][712]LogSavePackage: Moving '../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Saved/Russian_Body_Normal68AD7C3049E6FD05D10ACAB7DF8FC0C2.tmp' to '../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Content/Russian_Char/Russian_Body_Normal.uasset'
+[2019.02.13-19.25.36:628][712]LogSavePackage: Moving '../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Saved/Russian_Body_Opacity77C7620A44F923ACEFBB6E95F07DE73F.tmp' to '../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Content/Russian_Char/Russian_Body_Opacity.uasset'
+[2019.02.13-19.25.36:666][712]LogSavePackage: Moving '../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Saved/Russian_Body_Specular458334764971E079F66A0081FC4E2FEE.tmp' to '../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Content/Russian_Char/Russian_Body_Specular.uasset'
+[2019.02.13-19.25.36:693][712]LogSavePackage: Moving '../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Saved/Russian_Bottom_Diffuse93B79FD04E5B361E83D5D68119954511.tmp' to '../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Content/Russian_Char/Russian_Bottom_Diffuse.uasset'
+[2019.02.13-19.25.36:720][712]LogSavePackage: Moving '../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Saved/Russian_Bottom_GlossDC3584984F0DC4463BC29B8F9A8D724C.tmp' to '../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Content/Russian_Char/Russian_Bottom_Gloss.uasset'
+[2019.02.13-19.25.36:757][712]LogSavePackage: Moving '../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Saved/Russian_Bottom_Normal2476572042D2603665A2AE9688CE7D12.tmp' to '../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Content/Russian_Char/Russian_Bottom_Normal.uasset'
+[2019.02.13-19.25.36:784][712]LogSavePackage: Moving '../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Saved/Russian_Bottom_Opacity1EFD5DDD4B469E1D5C400894C8CFC60F.tmp' to '../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Content/Russian_Char/Russian_Bottom_Opacity.uasset'
+[2019.02.13-19.25.36:807][712]LogSavePackage: Moving '../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Saved/Russian_Bottom_Specular1A7677F54EF62CE73827FBB886D196CB.tmp' to '../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Content/Russian_Char/Russian_Bottom_Specular.uasset'
+[2019.02.13-19.25.36:843][712]LogSavePackage: Moving '../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Saved/Russian_Hair_Diffuse53FD79CD4E8AF060A59AD49401BDE8A2.tmp' to '../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Content/Russian_Char/Russian_Hair_Diffuse.uasset'
+[2019.02.13-19.25.36:876][712]LogSavePackage: Moving '../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Saved/Russian_Hair_Gloss2026EBAD4C2333FA298CB29195F80090.tmp' to '../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Content/Russian_Char/Russian_Hair_Gloss.uasset'
+[2019.02.13-19.25.36:905][712]LogSavePackage: Moving '../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Saved/Russian_Hair_Normal1642E18C47A7DE91839B508BAAE400AA.tmp' to '../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Content/Russian_Char/Russian_Hair_Normal.uasset'
+[2019.02.13-19.25.36:933][712]LogSavePackage: Moving '../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Saved/Russian_Hair_OpacityE22E87EA484806B6679C38B6BE44B8EC.tmp' to '../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Content/Russian_Char/Russian_Hair_Opacity.uasset'
+[2019.02.13-19.25.36:959][712]LogSavePackage: Moving '../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Saved/Russian_Hair_Specular967ADF124901EC40BE3D80B4812D4A4A.tmp' to '../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Content/Russian_Char/Russian_Hair_Specular.uasset'
+[2019.02.13-19.25.36:989][712]LogSavePackage: Moving '../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Saved/Russian_Top_Diffuse438CBB9244EB1C41EBA42BAE667FE170.tmp' to '../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Content/Russian_Char/Russian_Top_Diffuse.uasset'
+[2019.02.13-19.25.37:016][712]LogSavePackage: Moving '../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Saved/Russian_Top_Gloss19E269474EE155BF2984A0B8B16CC303.tmp' to '../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Content/Russian_Char/Russian_Top_Gloss.uasset'
+[2019.02.13-19.25.37:045][712]LogSavePackage: Moving '../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Saved/Russian_Top_Normal6E18A025438F3985C0525B95333F66B6.tmp' to '../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Content/Russian_Char/Russian_Top_Normal.uasset'
+[2019.02.13-19.25.37:066][712]LogSavePackage: Moving '../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Saved/Russian_Top_Opacity16B2D3414BFAE2D1B64C60947941EF21.tmp' to '../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Content/Russian_Char/Russian_Top_Opacity.uasset'
+[2019.02.13-19.25.37:091][712]LogSavePackage: Moving '../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Saved/Russian_Top_Specular96A1A8534A77A301D9A3128556553F0F.tmp' to '../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Content/Russian_Char/Russian_Top_Specular.uasset'
+[2019.02.13-19.28.16:579][267]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Boxing Russian.fbx)
+[2019.02.13-19.28.16:659][267]LogFbx: Loading FBX Scene from ../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Boxing Russian.fbx
+[2019.02.13-19.28.17:249][267]LogFbx: FBX Scene Loaded Succesfully
+[2019.02.13-19.28.55:908][267]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.02.13-19.28.55:986][267]LogFbx: =================================================
+[2019.02.13-19.28.55:986][267]LogFbx: Dumping Node START [Body] 
+[2019.02.13-19.28.55:986][267]LogFbx: 	Total Deformer Count 1362038400.
+[2019.02.13-19.28.55:986][267]LogFbx: 		[Node 1]  (Type BlendShape).
+[2019.02.13-19.28.55:986][267]LogFbx: =================================================
+[2019.02.13-19.28.55:986][267]LogFbx: 		[Node 2] Skin (Type Skin).
+[2019.02.13-19.28.55:986][267]LogFbx: =================================================
+[2019.02.13-19.28.55:986][267]LogFbx: 	Attribute (Bodymesh) Type (4).
+[2019.02.13-19.28.55:986][267]LogFbx: 		[Node Attribute Child 1] Body (Type Mesh).
+[2019.02.13-19.28.55:986][267]LogFbx: Dumping Node END [Body]
+[2019.02.13-19.28.55:986][267]LogFbx: =================================================
+[2019.02.13-19.28.55:986][267]LogFbx: Dumping Node START [Eyelashes] 
+[2019.02.13-19.28.55:986][267]LogFbx: 	Total Deformer Count 1453114944.
+[2019.02.13-19.28.55:986][267]LogFbx: 		[Node 1]  (Type BlendShape).
+[2019.02.13-19.28.55:986][267]LogFbx: =================================================
+[2019.02.13-19.28.55:987][267]LogFbx: 		[Node 2] Skin (Type Skin).
+[2019.02.13-19.28.55:987][267]LogFbx: =================================================
+[2019.02.13-19.28.55:987][267]LogFbx: 	Attribute (Eyelashesmesh) Type (4).
+[2019.02.13-19.28.55:987][267]LogFbx: 		[Node Attribute Child 1] Eyelashes (Type Mesh).
+[2019.02.13-19.28.55:987][267]LogFbx: Dumping Node END [Eyelashes]
+[2019.02.13-19.28.55:987][267]LogFbx: =================================================
+[2019.02.13-19.28.55:987][267]LogFbx: Dumping Node START [default] 
+[2019.02.13-19.28.55:987][267]LogFbx: 	Total Deformer Count 362459760.
+[2019.02.13-19.28.55:987][267]LogFbx: 		[Node 1]  (Type BlendShape).
+[2019.02.13-19.28.55:987][267]LogFbx: =================================================
+[2019.02.13-19.28.55:987][267]LogFbx: 		[Node 2] Skin (Type Skin).
+[2019.02.13-19.28.55:987][267]LogFbx: =================================================
+[2019.02.13-19.28.55:987][267]LogFbx: 	Attribute (defaultmesh) Type (4).
+[2019.02.13-19.28.55:987][267]LogFbx: 		[Node Attribute Child 1] default (Type Mesh).
+[2019.02.13-19.28.55:987][267]LogFbx: Dumping Node END [default]
+[2019.02.13-19.28.55:987][267]LogFbx: =================================================
+[2019.02.13-19.28.55:987][267]LogFbx: Dumping Node START [Bottoms] 
+[2019.02.13-19.28.55:987][267]LogFbx: 	Total Deformer Count 362459760.
+[2019.02.13-19.28.55:987][267]LogFbx: 		[Node 1] Skin (Type Skin).
+[2019.02.13-19.28.55:987][267]LogFbx: =================================================
+[2019.02.13-19.28.55:987][267]LogFbx: 	Attribute (Bottomsmesh) Type (4).
+[2019.02.13-19.28.55:987][267]LogFbx: 		[Node Attribute Child 1] Bottoms (Type Mesh).
+[2019.02.13-19.28.55:987][267]LogFbx: Dumping Node END [Bottoms]
+[2019.02.13-19.28.55:987][267]LogFbx: =================================================
+[2019.02.13-19.28.55:987][267]LogFbx: Dumping Node START [Hair] 
+[2019.02.13-19.28.55:987][267]LogFbx: 	Total Deformer Count 1362038400.
+[2019.02.13-19.28.55:987][267]LogFbx: 		[Node 1] Skin (Type Skin).
+[2019.02.13-19.28.55:987][267]LogFbx: =================================================
+[2019.02.13-19.28.55:987][267]LogFbx: 	Attribute (Hairmesh) Type (4).
+[2019.02.13-19.28.55:987][267]LogFbx: 		[Node Attribute Child 1] Hair (Type Mesh).
+[2019.02.13-19.28.55:987][267]LogFbx: Dumping Node END [Hair]
+[2019.02.13-19.28.55:987][267]LogFbx: =================================================
+[2019.02.13-19.28.55:987][267]LogFbx: Dumping Node START [Tops] 
+[2019.02.13-19.28.55:987][267]LogFbx: 	Total Deformer Count 1362038400.
+[2019.02.13-19.28.55:987][267]LogFbx: 		[Node 1] Skin (Type Skin).
+[2019.02.13-19.28.55:987][267]LogFbx: =================================================
+[2019.02.13-19.28.55:987][267]LogFbx: 	Attribute (Topsmesh) Type (4).
+[2019.02.13-19.28.55:987][267]LogFbx: 		[Node Attribute Child 1] Tops (Type Mesh).
+[2019.02.13-19.28.55:987][267]LogFbx: Dumping Node END [Tops]
+[2019.02.13-19.28.55:987][267]LogFbx: =================================================
+[2019.02.13-19.28.55:987][267]LogFbx: Dumping Node START [Body] 
+[2019.02.13-19.28.55:987][267]LogFbx: 	Total Deformer Count 1362038400.
+[2019.02.13-19.28.55:987][267]LogFbx: 		[Node 1]  (Type BlendShape).
+[2019.02.13-19.28.55:987][267]LogFbx: =================================================
+[2019.02.13-19.28.55:987][267]LogFbx: 		[Node 2] Skin (Type Skin).
+[2019.02.13-19.28.55:987][267]LogFbx: =================================================
+[2019.02.13-19.28.55:987][267]LogFbx: 	Attribute (Bodymesh) Type (4).
+[2019.02.13-19.28.55:987][267]LogFbx: 		[Node Attribute Child 1] Body (Type Mesh).
+[2019.02.13-19.28.55:987][267]LogFbx: Dumping Node END [Body]
+[2019.02.13-19.28.55:987][267]LogFbx: =================================================
+[2019.02.13-19.28.55:987][267]LogFbx: Dumping Node START [Eyelashes] 
+[2019.02.13-19.28.55:987][267]LogFbx: 	Total Deformer Count 1453121600.
+[2019.02.13-19.28.55:987][267]LogFbx: 		[Node 1]  (Type BlendShape).
+[2019.02.13-19.28.55:987][267]LogFbx: =================================================
+[2019.02.13-19.28.55:987][267]LogFbx: 		[Node 2] Skin (Type Skin).
+[2019.02.13-19.28.55:987][267]LogFbx: =================================================
+[2019.02.13-19.28.55:987][267]LogFbx: 	Attribute (Eyelashesmesh) Type (4).
+[2019.02.13-19.28.55:987][267]LogFbx: 		[Node Attribute Child 1] Eyelashes (Type Mesh).
+[2019.02.13-19.28.55:987][267]LogFbx: Dumping Node END [Eyelashes]
+[2019.02.13-19.28.55:987][267]LogFbx: =================================================
+[2019.02.13-19.28.55:987][267]LogFbx: Dumping Node START [default] 
+[2019.02.13-19.28.55:987][267]LogFbx: 	Total Deformer Count 362460152.
+[2019.02.13-19.28.55:987][267]LogFbx: 		[Node 1]  (Type BlendShape).
+[2019.02.13-19.28.55:987][267]LogFbx: =================================================
+[2019.02.13-19.28.55:988][267]LogFbx: 		[Node 2] Skin (Type Skin).
+[2019.02.13-19.28.55:988][267]LogFbx: =================================================
+[2019.02.13-19.28.55:988][267]LogFbx: 	Attribute (defaultmesh) Type (4).
+[2019.02.13-19.28.55:988][267]LogFbx: 		[Node Attribute Child 1] default (Type Mesh).
+[2019.02.13-19.28.55:988][267]LogFbx: Dumping Node END [default]
+[2019.02.13-19.28.55:988][267]LogFbx: =================================================
+[2019.02.13-19.28.55:988][267]LogFbx: Dumping Node START [Bottoms] 
+[2019.02.13-19.28.55:988][267]LogFbx: 	Total Deformer Count 362460152.
+[2019.02.13-19.28.55:988][267]LogFbx: 		[Node 1] Skin (Type Skin).
+[2019.02.13-19.28.55:988][267]LogFbx: =================================================
+[2019.02.13-19.28.55:988][267]LogFbx: 	Attribute (Bottomsmesh) Type (4).
+[2019.02.13-19.28.55:988][267]LogFbx: 		[Node Attribute Child 1] Bottoms (Type Mesh).
+[2019.02.13-19.28.55:988][267]LogFbx: Dumping Node END [Bottoms]
+[2019.02.13-19.28.55:988][267]LogFbx: =================================================
+[2019.02.13-19.28.55:988][267]LogFbx: Dumping Node START [Hair] 
+[2019.02.13-19.28.55:988][267]LogFbx: 	Total Deformer Count 1362038400.
+[2019.02.13-19.28.55:988][267]LogFbx: 		[Node 1] Skin (Type Skin).
+[2019.02.13-19.28.55:988][267]LogFbx: =================================================
+[2019.02.13-19.28.55:988][267]LogFbx: 	Attribute (Hairmesh) Type (4).
+[2019.02.13-19.28.55:988][267]LogFbx: 		[Node Attribute Child 1] Hair (Type Mesh).
+[2019.02.13-19.28.55:988][267]LogFbx: Dumping Node END [Hair]
+[2019.02.13-19.28.55:988][267]LogFbx: =================================================
+[2019.02.13-19.28.55:988][267]LogFbx: Dumping Node START [Tops] 
+[2019.02.13-19.28.55:988][267]LogFbx: 	Total Deformer Count 1362038400.
+[2019.02.13-19.28.55:988][267]LogFbx: 		[Node 1] Skin (Type Skin).
+[2019.02.13-19.28.55:988][267]LogFbx: =================================================
+[2019.02.13-19.28.55:988][267]LogFbx: 	Attribute (Topsmesh) Type (4).
+[2019.02.13-19.28.55:988][267]LogFbx: 		[Node Attribute Child 1] Tops (Type Mesh).
+[2019.02.13-19.28.55:988][267]LogFbx: Dumping Node END [Tops]
+[2019.02.13-19.28.55:991][267]LogFbx: Valid bind pose for Pose (BindPose) - Body
+[2019.02.13-19.28.55:995][267]LogFbx: Triangulating skeletal mesh Body
+[2019.02.13-19.28.57:218][267]LogFbx: Triangulating skeletal mesh Eyelashes
+[2019.02.13-19.28.57:225][267]LogFbx: Triangulating skeletal mesh default
+[2019.02.13-19.28.57:300][267]LogFbx: Triangulating skeletal mesh Bottoms
+[2019.02.13-19.28.57:449][267]LogFbx: Triangulating skeletal mesh Hair
+[2019.02.13-19.28.57:633][267]LogFbx: Triangulating skeletal mesh Tops
+[2019.02.13-19.28.57:864][267]LogFbx: Warning: Bones digested - 67  Depth of hierarchy - 12
+[2019.02.13-19.28.58:594][267]LogSkeletalMesh: Section 0: 13383 vertices, 50 active bones
+[2019.02.13-19.28.58:595][267]LogSkeletalMesh: Section 1: 2261 vertices, 10 active bones
+[2019.02.13-19.28.58:595][267]LogSkeletalMesh: Section 2: 3989 vertices, 3 active bones
+[2019.02.13-19.28.58:595][267]LogSkeletalMesh: Section 3: 2434 vertices, 13 active bones
+[2019.02.13-19.28.58:597][267]LogSkeletalMesh: Section 0: Material=0, 23962 triangles
+[2019.02.13-19.28.58:597][267]LogSkeletalMesh: Section 1: Material=1, 4004 triangles
+[2019.02.13-19.28.58:597][267]LogSkeletalMesh: Section 2: Material=2, 4420 triangles
+[2019.02.13-19.28.58:597][267]LogSkeletalMesh: Section 3: Material=3, 4362 triangles
+[2019.02.13-19.28.58:601][267]LogSkeletalMesh: Building Skeletal Mesh Boxing_Russian...
+[2019.02.13-19.28.58:656][267]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/Boxing_Russian.Boxing_Russian
+[2019.02.13-19.28.58:676][267]LogLinker: Can't find file '/Game/Boxing_Russian_PhysicsAsset'
+[2019.02.13-19.28.58:676][267]LogLinker: Can't find file '/Game/Boxing_Russian_PhysicsAsset'
+[2019.02.13-19.28.58:693][267]LogFbx: =================================================
+[2019.02.13-19.28.58:693][267]LogFbx: Dumping Node START [Body] 
+[2019.02.13-19.28.58:693][267]LogFbx: 	Total Deformer Count 1362046608.
+[2019.02.13-19.28.58:693][267]LogFbx: 		[Node 1]  (Type BlendShape).
+[2019.02.13-19.28.58:693][267]LogFbx: =================================================
+[2019.02.13-19.28.58:693][267]LogFbx: 		[Node 2] Skin (Type Skin).
+[2019.02.13-19.28.58:693][267]LogFbx: =================================================
+[2019.02.13-19.28.58:693][267]LogFbx: 	Attribute (Bodymesh) Type (4).
+[2019.02.13-19.28.58:693][267]LogFbx: 		[Node Attribute Child 1] Body (Type Mesh).
+[2019.02.13-19.28.58:693][267]LogFbx: Dumping Node END [Body]
+[2019.02.13-19.28.58:693][267]LogFbx: =================================================
+[2019.02.13-19.28.58:693][267]LogFbx: Dumping Node START [Eyelashes] 
+[2019.02.13-19.28.58:693][267]LogFbx: 	Total Deformer Count 1452867264.
+[2019.02.13-19.28.58:693][267]LogFbx: 		[Node 1]  (Type BlendShape).
+[2019.02.13-19.28.58:693][267]LogFbx: =================================================
+[2019.02.13-19.28.58:693][267]LogFbx: 		[Node 2] Skin (Type Skin).
+[2019.02.13-19.28.58:693][267]LogFbx: =================================================
+[2019.02.13-19.28.58:693][267]LogFbx: 	Attribute (Eyelashesmesh) Type (4).
+[2019.02.13-19.28.58:693][267]LogFbx: 		[Node Attribute Child 1] Eyelashes (Type Mesh).
+[2019.02.13-19.28.58:693][267]LogFbx: Dumping Node END [Eyelashes]
+[2019.02.13-19.28.58:693][267]LogFbx: =================================================
+[2019.02.13-19.28.58:693][267]LogFbx: Dumping Node START [default] 
+[2019.02.13-19.28.58:693][267]LogFbx: 	Total Deformer Count 362461048.
+[2019.02.13-19.28.58:693][267]LogFbx: 		[Node 1]  (Type BlendShape).
+[2019.02.13-19.28.58:693][267]LogFbx: =================================================
+[2019.02.13-19.28.58:693][267]LogFbx: 		[Node 2] Skin (Type Skin).
+[2019.02.13-19.28.58:693][267]LogFbx: =================================================
+[2019.02.13-19.28.58:693][267]LogFbx: 	Attribute (defaultmesh) Type (4).
+[2019.02.13-19.28.58:693][267]LogFbx: 		[Node Attribute Child 1] default (Type Mesh).
+[2019.02.13-19.28.58:693][267]LogFbx: Dumping Node END [default]
+[2019.02.13-19.28.58:693][267]LogFbx: =================================================
+[2019.02.13-19.28.58:693][267]LogFbx: Dumping Node START [Bottoms] 
+[2019.02.13-19.28.58:693][267]LogFbx: 	Total Deformer Count 362461048.
+[2019.02.13-19.28.58:693][267]LogFbx: 		[Node 1] Skin (Type Skin).
+[2019.02.13-19.28.58:693][267]LogFbx: =================================================
+[2019.02.13-19.28.58:693][267]LogFbx: 	Attribute (Bottomsmesh) Type (4).
+[2019.02.13-19.28.58:693][267]LogFbx: 		[Node Attribute Child 1] Bottoms (Type Mesh).
+[2019.02.13-19.28.58:693][267]LogFbx: Dumping Node END [Bottoms]
+[2019.02.13-19.28.58:693][267]LogFbx: =================================================
+[2019.02.13-19.28.58:693][267]LogFbx: Dumping Node START [Hair] 
+[2019.02.13-19.28.58:693][267]LogFbx: 	Total Deformer Count 1362046608.
+[2019.02.13-19.28.58:693][267]LogFbx: 		[Node 1] Skin (Type Skin).
+[2019.02.13-19.28.58:693][267]LogFbx: =================================================
+[2019.02.13-19.28.58:693][267]LogFbx: 	Attribute (Hairmesh) Type (4).
+[2019.02.13-19.28.58:693][267]LogFbx: 		[Node Attribute Child 1] Hair (Type Mesh).
+[2019.02.13-19.28.58:693][267]LogFbx: Dumping Node END [Hair]
+[2019.02.13-19.28.58:693][267]LogFbx: =================================================
+[2019.02.13-19.28.58:693][267]LogFbx: Dumping Node START [Tops] 
+[2019.02.13-19.28.58:693][267]LogFbx: 	Total Deformer Count 1362046608.
+[2019.02.13-19.28.58:693][267]LogFbx: 		[Node 1] Skin (Type Skin).
+[2019.02.13-19.28.58:693][267]LogFbx: =================================================
+[2019.02.13-19.28.58:693][267]LogFbx: 	Attribute (Topsmesh) Type (4).
+[2019.02.13-19.28.58:693][267]LogFbx: 		[Node Attribute Child 1] Tops (Type Mesh).
+[2019.02.13-19.28.58:693][267]LogFbx: Dumping Node END [Tops]
+[2019.02.13-19.28.58:693][267]LogFbx: =================================================
+[2019.02.13-19.28.58:693][267]LogFbx: Dumping Node START [Body] 
+[2019.02.13-19.28.58:693][267]LogFbx: 	Total Deformer Count 1362046608.
+[2019.02.13-19.28.58:693][267]LogFbx: 		[Node 1]  (Type BlendShape).
+[2019.02.13-19.28.58:693][267]LogFbx: =================================================
+[2019.02.13-19.28.58:693][267]LogFbx: 		[Node 2] Skin (Type Skin).
+[2019.02.13-19.28.58:693][267]LogFbx: =================================================
+[2019.02.13-19.28.58:693][267]LogFbx: 	Attribute (Bodymesh) Type (4).
+[2019.02.13-19.28.58:693][267]LogFbx: 		[Node Attribute Child 1] Body (Type Mesh).
+[2019.02.13-19.28.58:693][267]LogFbx: Dumping Node END [Body]
+[2019.02.13-19.28.58:694][267]LogFbx: =================================================
+[2019.02.13-19.28.58:694][267]LogFbx: Dumping Node START [Eyelashes] 
+[2019.02.13-19.28.58:694][267]LogFbx: 	Total Deformer Count 1452861312.
+[2019.02.13-19.28.58:694][267]LogFbx: 		[Node 1]  (Type BlendShape).
+[2019.02.13-19.28.58:694][267]LogFbx: =================================================
+[2019.02.13-19.28.58:694][267]LogFbx: 		[Node 2] Skin (Type Skin).
+[2019.02.13-19.28.58:694][267]LogFbx: =================================================
+[2019.02.13-19.28.58:694][267]LogFbx: 	Attribute (Eyelashesmesh) Type (4).
+[2019.02.13-19.28.58:694][267]LogFbx: 		[Node Attribute Child 1] Eyelashes (Type Mesh).
+[2019.02.13-19.28.58:694][267]LogFbx: Dumping Node END [Eyelashes]
+[2019.02.13-19.28.58:694][267]LogFbx: =================================================
+[2019.02.13-19.28.58:694][267]LogFbx: Dumping Node START [default] 
+[2019.02.13-19.28.58:694][267]LogFbx: 	Total Deformer Count 362461776.
+[2019.02.13-19.28.58:694][267]LogFbx: 		[Node 1]  (Type BlendShape).
+[2019.02.13-19.28.58:694][267]LogFbx: =================================================
+[2019.02.13-19.28.58:694][267]LogFbx: 		[Node 2] Skin (Type Skin).
+[2019.02.13-19.28.58:694][267]LogFbx: =================================================
+[2019.02.13-19.28.58:694][267]LogFbx: 	Attribute (defaultmesh) Type (4).
+[2019.02.13-19.28.58:694][267]LogFbx: 		[Node Attribute Child 1] default (Type Mesh).
+[2019.02.13-19.28.58:694][267]LogFbx: Dumping Node END [default]
+[2019.02.13-19.28.58:694][267]LogFbx: =================================================
+[2019.02.13-19.28.58:694][267]LogFbx: Dumping Node START [Bottoms] 
+[2019.02.13-19.28.58:694][267]LogFbx: 	Total Deformer Count 362461776.
+[2019.02.13-19.28.58:694][267]LogFbx: 		[Node 1] Skin (Type Skin).
+[2019.02.13-19.28.58:694][267]LogFbx: =================================================
+[2019.02.13-19.28.58:694][267]LogFbx: 	Attribute (Bottomsmesh) Type (4).
+[2019.02.13-19.28.58:694][267]LogFbx: 		[Node Attribute Child 1] Bottoms (Type Mesh).
+[2019.02.13-19.28.58:694][267]LogFbx: Dumping Node END [Bottoms]
+[2019.02.13-19.28.58:694][267]LogFbx: =================================================
+[2019.02.13-19.28.58:694][267]LogFbx: Dumping Node START [Hair] 
+[2019.02.13-19.28.58:694][267]LogFbx: 	Total Deformer Count 1362046608.
+[2019.02.13-19.28.58:694][267]LogFbx: 		[Node 1] Skin (Type Skin).
+[2019.02.13-19.28.58:694][267]LogFbx: =================================================
+[2019.02.13-19.28.58:694][267]LogFbx: 	Attribute (Hairmesh) Type (4).
+[2019.02.13-19.28.58:694][267]LogFbx: 		[Node Attribute Child 1] Hair (Type Mesh).
+[2019.02.13-19.28.58:694][267]LogFbx: Dumping Node END [Hair]
+[2019.02.13-19.28.58:694][267]LogFbx: =================================================
+[2019.02.13-19.28.58:694][267]LogFbx: Dumping Node START [Tops] 
+[2019.02.13-19.28.58:694][267]LogFbx: 	Total Deformer Count 1362046608.
+[2019.02.13-19.28.58:694][267]LogFbx: 		[Node 1] Skin (Type Skin).
+[2019.02.13-19.28.58:694][267]LogFbx: =================================================
+[2019.02.13-19.28.58:694][267]LogFbx: 	Attribute (Topsmesh) Type (4).
+[2019.02.13-19.28.58:694][267]LogFbx: 		[Node Attribute Child 1] Tops (Type Mesh).
+[2019.02.13-19.28.58:694][267]LogFbx: Dumping Node END [Tops]
+[2019.02.13-19.28.58:695][267]LogFbx: SortedLinks :(0) Hips
+[2019.02.13-19.28.58:695][267]LogFbx: SortedLinks :(1) Spine
+[2019.02.13-19.28.58:695][267]LogFbx: SortedLinks :(2) Spine1
+[2019.02.13-19.28.58:695][267]LogFbx: SortedLinks :(3) Spine2
+[2019.02.13-19.28.58:695][267]LogFbx: SortedLinks :(4) Neck
+[2019.02.13-19.28.58:695][267]LogFbx: SortedLinks :(5) Head
+[2019.02.13-19.28.58:695][267]LogFbx: SortedLinks :(6) HeadTop_End
+[2019.02.13-19.28.58:695][267]LogFbx: SortedLinks :(7) RightEye
+[2019.02.13-19.28.58:695][267]LogFbx: SortedLinks :(8) LeftEye
+[2019.02.13-19.28.58:696][267]LogFbx: SortedLinks :(9) LeftShoulder
+[2019.02.13-19.28.58:696][267]LogFbx: SortedLinks :(10) LeftArm
+[2019.02.13-19.28.58:696][267]LogFbx: SortedLinks :(11) LeftForeArm
+[2019.02.13-19.28.58:696][267]LogFbx: SortedLinks :(12) LeftHand
+[2019.02.13-19.28.58:696][267]LogFbx: SortedLinks :(13) LeftHandMiddle1
+[2019.02.13-19.28.58:696][267]LogFbx: SortedLinks :(14) LeftHandMiddle2
+[2019.02.13-19.28.58:696][267]LogFbx: SortedLinks :(15) LeftHandMiddle3
+[2019.02.13-19.28.58:696][267]LogFbx: SortedLinks :(16) LeftHandMiddle4
+[2019.02.13-19.28.58:696][267]LogFbx: SortedLinks :(17) LeftHandThumb1
+[2019.02.13-19.28.58:696][267]LogFbx: SortedLinks :(18) LeftHandThumb2
+[2019.02.13-19.28.58:696][267]LogFbx: SortedLinks :(19) LeftHandThumb3
+[2019.02.13-19.28.58:696][267]LogFbx: SortedLinks :(20) LeftHandThumb4
+[2019.02.13-19.28.58:696][267]LogFbx: SortedLinks :(21) LeftHandIndex1
+[2019.02.13-19.28.58:696][267]LogFbx: SortedLinks :(22) LeftHandIndex2
+[2019.02.13-19.28.58:696][267]LogFbx: SortedLinks :(23) LeftHandIndex3
+[2019.02.13-19.28.58:696][267]LogFbx: SortedLinks :(24) LeftHandIndex4
+[2019.02.13-19.28.58:696][267]LogFbx: SortedLinks :(25) LeftHandRing1
+[2019.02.13-19.28.58:696][267]LogFbx: SortedLinks :(26) LeftHandRing2
+[2019.02.13-19.28.58:696][267]LogFbx: SortedLinks :(27) LeftHandRing3
+[2019.02.13-19.28.58:696][267]LogFbx: SortedLinks :(28) LeftHandRing4
+[2019.02.13-19.28.58:696][267]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2019.02.13-19.28.58:696][267]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2019.02.13-19.28.58:696][267]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2019.02.13-19.28.58:696][267]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2019.02.13-19.28.58:696][267]LogFbx: SortedLinks :(33) RightShoulder
+[2019.02.13-19.28.58:696][267]LogFbx: SortedLinks :(34) RightArm
+[2019.02.13-19.28.58:696][267]LogFbx: SortedLinks :(35) RightForeArm
+[2019.02.13-19.28.58:696][267]LogFbx: SortedLinks :(36) RightHand
+[2019.02.13-19.28.58:696][267]LogFbx: SortedLinks :(37) RightHandMiddle1
+[2019.02.13-19.28.58:696][267]LogFbx: SortedLinks :(38) RightHandMiddle2
+[2019.02.13-19.28.58:696][267]LogFbx: SortedLinks :(39) RightHandMiddle3
+[2019.02.13-19.28.58:696][267]LogFbx: SortedLinks :(40) RightHandMiddle4
+[2019.02.13-19.28.58:696][267]LogFbx: SortedLinks :(41) RightHandThumb1
+[2019.02.13-19.28.58:696][267]LogFbx: SortedLinks :(42) RightHandThumb2
+[2019.02.13-19.28.58:696][267]LogFbx: SortedLinks :(43) RightHandThumb3
+[2019.02.13-19.28.58:696][267]LogFbx: SortedLinks :(44) RightHandThumb4
+[2019.02.13-19.28.58:696][267]LogFbx: SortedLinks :(45) RightHandIndex1
+[2019.02.13-19.28.58:696][267]LogFbx: SortedLinks :(46) RightHandIndex2
+[2019.02.13-19.28.58:696][267]LogFbx: SortedLinks :(47) RightHandIndex3
+[2019.02.13-19.28.58:696][267]LogFbx: SortedLinks :(48) RightHandIndex4
+[2019.02.13-19.28.58:696][267]LogFbx: SortedLinks :(49) RightHandRing1
+[2019.02.13-19.28.58:696][267]LogFbx: SortedLinks :(50) RightHandRing2
+[2019.02.13-19.28.58:696][267]LogFbx: SortedLinks :(51) RightHandRing3
+[2019.02.13-19.28.58:696][267]LogFbx: SortedLinks :(52) RightHandRing4
+[2019.02.13-19.28.58:696][267]LogFbx: SortedLinks :(53) RightHandPinky1
+[2019.02.13-19.28.58:696][267]LogFbx: SortedLinks :(54) RightHandPinky2
+[2019.02.13-19.28.58:696][267]LogFbx: SortedLinks :(55) RightHandPinky3
+[2019.02.13-19.28.58:696][267]LogFbx: SortedLinks :(56) RightHandPinky4
+[2019.02.13-19.28.58:696][267]LogFbx: SortedLinks :(57) RightUpLeg
+[2019.02.13-19.28.58:696][267]LogFbx: SortedLinks :(58) RightLeg
+[2019.02.13-19.28.58:696][267]LogFbx: SortedLinks :(59) RightFoot
+[2019.02.13-19.28.58:696][267]LogFbx: SortedLinks :(60) RightToeBase
+[2019.02.13-19.28.58:696][267]LogFbx: SortedLinks :(61) RightToe_End
+[2019.02.13-19.28.58:696][267]LogFbx: SortedLinks :(62) LeftUpLeg
+[2019.02.13-19.28.58:696][267]LogFbx: SortedLinks :(63) LeftLeg
+[2019.02.13-19.28.58:696][267]LogFbx: SortedLinks :(64) LeftFoot
+[2019.02.13-19.28.58:696][267]LogFbx: SortedLinks :(65) LeftToeBase
+[2019.02.13-19.28.58:696][267]LogFbx: SortedLinks :(66) LeftToe_End
+[2019.02.13-19.28.58:698][267]LogFbx: Parsing AnimStack mixamo.com
+[2019.02.13-19.28.58:704][267]LogLinker: Can't find file '/Game/Boxing_Russian_Anim'
+[2019.02.13-19.28.58:704][267]LogLinker: Can't find file '/Game/Boxing_Russian_Anim'
+[2019.02.13-19.28.58:707][267]LogFbx: Warning: CurveName(Blink_Left) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:707][267]LogFbx: Warning: CurveName(Blink_Right) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:707][267]LogFbx: Warning: CurveName(BrowsDown_Left) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:707][267]LogFbx: Warning: CurveName(BrowsDown_Right) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:707][267]LogFbx: Warning: CurveName(BrowsIn_Left) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:707][267]LogFbx: Warning: CurveName(BrowsIn_Right) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:707][267]LogFbx: Warning: CurveName(BrowsOuterLower_Left) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:707][267]LogFbx: Warning: CurveName(BrowsOuterLower_Right) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:707][267]LogFbx: Warning: CurveName(BrowsUp_Left) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:707][267]LogFbx: Warning: CurveName(BrowsUp_Right) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:707][267]LogFbx: Warning: CurveName(CheekPuff_Left) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:707][267]LogFbx: Warning: CurveName(CheekPuff_Right) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:707][267]LogFbx: Warning: CurveName(EyesWide_Left) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:707][267]LogFbx: Warning: CurveName(EyesWide_Right) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:707][267]LogFbx: Warning: CurveName(Frown_Left) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:707][267]LogFbx: Warning: CurveName(Frown_Right) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:707][267]LogFbx: Warning: CurveName(JawBackward) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:707][267]LogFbx: Warning: CurveName(JawForeward) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:707][267]LogFbx: Warning: CurveName(JawRotateY_Left) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:707][267]LogFbx: Warning: CurveName(JawRotateY_Right) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:707][267]LogFbx: Warning: CurveName(JawRotateZ_Left) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:707][267]LogFbx: Warning: CurveName(JawRotateZ_Right) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:707][267]LogFbx: Warning: CurveName(Jaw_Down) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:707][267]LogFbx: Warning: CurveName(Jaw_Left) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:707][267]LogFbx: Warning: CurveName(Jaw_Right) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:707][267]LogFbx: Warning: CurveName(Jaw_Up) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:707][267]LogFbx: Warning: CurveName(LowerLipDown_Left) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:707][267]LogFbx: Warning: CurveName(LowerLipDown_Right) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:707][267]LogFbx: Warning: CurveName(LowerLipIn) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:707][267]LogFbx: Warning: CurveName(LowerLipOut) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:707][267]LogFbx: Warning: CurveName(Midmouth_Left) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:707][267]LogFbx: Warning: CurveName(Midmouth_Right) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:707][267]LogFbx: Warning: CurveName(MouthDown) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:707][267]LogFbx: Warning: CurveName(MouthNarrow_Left) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:708][267]LogFbx: Warning: CurveName(MouthNarrow_Right) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:708][267]LogFbx: Warning: CurveName(MouthOpen) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:708][267]LogFbx: Warning: CurveName(MouthUp) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:708][267]LogFbx: Warning: CurveName(MouthWhistle_NarrowAdjust_Left) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:708][267]LogFbx: Warning: CurveName(MouthWhistle_NarrowAdjust_Right) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:708][267]LogFbx: Warning: CurveName(NoseScrunch_Left) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:708][267]LogFbx: Warning: CurveName(NoseScrunch_Right) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:708][267]LogFbx: Warning: CurveName(Smile_Left) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:708][267]LogFbx: Warning: CurveName(Smile_Right) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:708][267]LogFbx: Warning: CurveName(Squint_Left) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:708][267]LogFbx: Warning: CurveName(Squint_Right) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:708][267]LogFbx: Warning: CurveName(TongueUp) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:708][267]LogFbx: Warning: CurveName(UpperLipIn) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:708][267]LogFbx: Warning: CurveName(UpperLipOut) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:708][267]LogFbx: Warning: CurveName(UpperLipUp_Left) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:708][267]LogFbx: Warning: CurveName(UpperLipUp_Right) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:708][267]LogFbx: Warning: CurveName(Blink_Left) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:708][267]LogFbx: Warning: CurveName(Blink_Right) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:708][267]LogFbx: Warning: CurveName(BrowsDown_Left) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:708][267]LogFbx: Warning: CurveName(BrowsDown_Right) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:708][267]LogFbx: Warning: CurveName(BrowsIn_Left) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:708][267]LogFbx: Warning: CurveName(BrowsIn_Right) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:708][267]LogFbx: Warning: CurveName(BrowsOuterLower_Left) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:708][267]LogFbx: Warning: CurveName(BrowsOuterLower_Right) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:708][267]LogFbx: Warning: CurveName(BrowsUp_Left) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:708][267]LogFbx: Warning: CurveName(BrowsUp_Right) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:708][267]LogFbx: Warning: CurveName(CheekPuff_Left) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:708][267]LogFbx: Warning: CurveName(CheekPuff_Right) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:708][267]LogFbx: Warning: CurveName(EyesWide_Left) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:708][267]LogFbx: Warning: CurveName(EyesWide_Right) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:708][267]LogFbx: Warning: CurveName(Frown_Left) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:708][267]LogFbx: Warning: CurveName(Frown_Right) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:708][267]LogFbx: Warning: CurveName(JawBackward) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:708][267]LogFbx: Warning: CurveName(JawForeward) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:708][267]LogFbx: Warning: CurveName(JawRotateY_Left) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:708][267]LogFbx: Warning: CurveName(JawRotateY_Right) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:708][267]LogFbx: Warning: CurveName(JawRotateZ_Left) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:708][267]LogFbx: Warning: CurveName(JawRotateZ_Right) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:708][267]LogFbx: Warning: CurveName(Jaw_Down) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:708][267]LogFbx: Warning: CurveName(Jaw_Left) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:708][267]LogFbx: Warning: CurveName(Jaw_Right) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:708][267]LogFbx: Warning: CurveName(Jaw_Up) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:708][267]LogFbx: Warning: CurveName(LowerLipDown_Left) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:708][267]LogFbx: Warning: CurveName(LowerLipDown_Right) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:708][267]LogFbx: Warning: CurveName(LowerLipIn) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:708][267]LogFbx: Warning: CurveName(LowerLipOut) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:708][267]LogFbx: Warning: CurveName(Midmouth_Left) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:708][267]LogFbx: Warning: CurveName(Midmouth_Right) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:708][267]LogFbx: Warning: CurveName(MouthDown) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:708][267]LogFbx: Warning: CurveName(MouthNarrow_Left) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:708][267]LogFbx: Warning: CurveName(MouthNarrow_Right) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:708][267]LogFbx: Warning: CurveName(MouthOpen) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:708][267]LogFbx: Warning: CurveName(MouthUp) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:708][267]LogFbx: Warning: CurveName(MouthWhistle_NarrowAdjust_Left) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:708][267]LogFbx: Warning: CurveName(MouthWhistle_NarrowAdjust_Right) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:708][267]LogFbx: Warning: CurveName(NoseScrunch_Left) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:708][267]LogFbx: Warning: CurveName(NoseScrunch_Right) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:708][267]LogFbx: Warning: CurveName(Smile_Left) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:708][267]LogFbx: Warning: CurveName(Smile_Right) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:708][267]LogFbx: Warning: CurveName(Squint_Left) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:708][267]LogFbx: Warning: CurveName(Squint_Right) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:708][267]LogFbx: Warning: CurveName(TongueUp) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:708][267]LogFbx: Warning: CurveName(UpperLipIn) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:708][267]LogFbx: Warning: CurveName(UpperLipOut) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:709][267]LogFbx: Warning: CurveName(UpperLipUp_Left) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:709][267]LogFbx: Warning: CurveName(UpperLipUp_Right) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:709][267]LogFbx: Warning: CurveName(Blink_Left) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:709][267]LogFbx: Warning: CurveName(Blink_Right) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:709][267]LogFbx: Warning: CurveName(BrowsDown_Left) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:709][267]LogFbx: Warning: CurveName(BrowsDown_Right) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:709][267]LogFbx: Warning: CurveName(BrowsIn_Left) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:709][267]LogFbx: Warning: CurveName(BrowsIn_Right) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:709][267]LogFbx: Warning: CurveName(BrowsOuterLower_Left) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:709][267]LogFbx: Warning: CurveName(BrowsOuterLower_Right) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:709][267]LogFbx: Warning: CurveName(BrowsUp_Left) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:709][267]LogFbx: Warning: CurveName(BrowsUp_Right) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:709][267]LogFbx: Warning: CurveName(CheekPuff_Left) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:709][267]LogFbx: Warning: CurveName(CheekPuff_Right) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:709][267]LogFbx: Warning: CurveName(EyesWide_Left) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:709][267]LogFbx: Warning: CurveName(EyesWide_Right) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:709][267]LogFbx: Warning: CurveName(Frown_Left) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:709][267]LogFbx: Warning: CurveName(Frown_Right) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:709][267]LogFbx: Warning: CurveName(JawBackward) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:709][267]LogFbx: Warning: CurveName(JawForeward) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:709][267]LogFbx: Warning: CurveName(JawRotateY_Left) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:709][267]LogFbx: Warning: CurveName(JawRotateY_Right) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:709][267]LogFbx: Warning: CurveName(JawRotateZ_Left) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:709][267]LogFbx: Warning: CurveName(JawRotateZ_Right) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:709][267]LogFbx: Warning: CurveName(Jaw_Down) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:709][267]LogFbx: Warning: CurveName(Jaw_Left) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:709][267]LogFbx: Warning: CurveName(Jaw_Right) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:709][267]LogFbx: Warning: CurveName(Jaw_Up) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:709][267]LogFbx: Warning: CurveName(LowerLipDown_Left) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:709][267]LogFbx: Warning: CurveName(LowerLipDown_Right) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:709][267]LogFbx: Warning: CurveName(LowerLipIn) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:709][267]LogFbx: Warning: CurveName(LowerLipOut) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:709][267]LogFbx: Warning: CurveName(Midmouth_Left) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:709][267]LogFbx: Warning: CurveName(Midmouth_Right) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:709][267]LogFbx: Warning: CurveName(MouthDown) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:709][267]LogFbx: Warning: CurveName(MouthNarrow_Left) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:709][267]LogFbx: Warning: CurveName(MouthNarrow_Right) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:709][267]LogFbx: Warning: CurveName(MouthOpen) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:709][267]LogFbx: Warning: CurveName(MouthUp) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:709][267]LogFbx: Warning: CurveName(MouthWhistle_NarrowAdjust_Left) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:709][267]LogFbx: Warning: CurveName(MouthWhistle_NarrowAdjust_Right) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:709][267]LogFbx: Warning: CurveName(NoseScrunch_Left) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:709][267]LogFbx: Warning: CurveName(NoseScrunch_Right) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:709][267]LogFbx: Warning: CurveName(Smile_Left) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:709][267]LogFbx: Warning: CurveName(Smile_Right) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:709][267]LogFbx: Warning: CurveName(Squint_Left) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:709][267]LogFbx: Warning: CurveName(Squint_Right) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:709][267]LogFbx: Warning: CurveName(TongueUp) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:709][267]LogFbx: Warning: CurveName(UpperLipIn) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:709][267]LogFbx: Warning: CurveName(UpperLipOut) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:709][267]LogFbx: Warning: CurveName(UpperLipUp_Left) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:709][267]LogFbx: Warning: CurveName(UpperLipUp_Right) is skipped because it only contains invalid values.
+[2019.02.13-19.28.58:999][267]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Boxing_Russian_Anim.Boxing_Russian_Anim
+[2019.02.13-19.28.59:006][267]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Boxing_Russian_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.02.13-19.28.59:016][267]LogSkeletalMesh: Building Skeletal Mesh Boxing_Russian...
+[2019.02.13-19.28.59:068][267]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/Boxing_Russian.Boxing_Russian
+[2019.02.13-19.28.59:102][267]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.02.13-19.28.59:102][267]FBXImport: Warning: The following bones are missing from the bind pose:
+mixamorig:HeadTop_End  
+mixamorig:LeftHandMiddle4  
+mixamorig:LeftHandThumb4  
+mixamorig:LeftHandIndex4  
+mixamorig:LeftHandRing4  
+mixamorig:LeftHandPinky4  
+mixamorig:RightHandMiddle4  
+mixamorig:RightHandThumb4  
+mixamorig:RightHandIndex4  
+mixamorig:RightHandRing4  
+mixamorig:RightHandPinky4  
+mixamorig:RightToe_End  
+mixamorig:LeftToe_End  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2019.02.13-19.28.59:102][267]FBXImport: Warning: Warning skeletal mesh influence count of 10 exceeds max count of 8. Influence truncation will occur. Maximum Ignored Weight 0 
+[2019.02.13-19.28.59:111][267]LogSkeletalMesh: Building Skeletal Mesh Boxing_Russian...
+[2019.02.13-19.28.59:162][267]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/Boxing_Russian.Boxing_Russian
+[2019.02.13-19.29.12:042][715]LogSlate: Window 'Message Log' being destroyed
+[2019.02.13-19.29.12:047][715]LogSlate: Window 'Message Log' being destroyed
+[2019.02.13-19.29.16:428][  1]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Boxing_Russian_Anim.Boxing_Russian_Anim
+[2019.02.13-19.29.16:443][  1]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.02.13-19.29.16:490][  1]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.02.13-19.29.16:805][  1]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.02.13-19.29.26:201][654]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (26.997 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.02.13-19.29.33:842][211]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.13-19.29.33:939][219]LogSlate: Window 'Boxing_Russian_Anim*' being destroyed
+[2019.02.13-19.29.44:692][293]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Boxing_Russian_Anim)
+[2019.02.13-19.29.46:267][418]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.13-19.29.50:340][855]Cmd: TRANSACTION UNDO
+[2019.02.13-19.29.50:340][855]LogEditorTransaction: Undo Clicking on Actors
+[2019.02.13-19.29.51:616][974]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Boxing_Russian_Anim)
+[2019.02.13-19.29.52:344][ 56]Cmd: DELETE
+[2019.02.13-19.29.52:344][ 56]Cmd: ACTOR DELETE
+[2019.02.13-19.29.52:349][ 56]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2019.02.13-19.29.52:372][ 56]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2019.02.13-19.29.54:022][253]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (EyeLashesFixed_Russian_PhysicsAsset)
+[2019.02.13-19.31.07:851][817]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.13-19.31.17:376][921]LogSavePackage: Moving '../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Saved/FuseAssignment988C28274A00474C9128C0B0268F6ACC.tmp' to '../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Content/Russian_Char/FuseAssignment.umap'
+[2019.02.13-19.31.17:394][921]LogFileHelpers: Saving map 'FuseAssignment' took 0.145
+[2019.02.13-19.31.17:411][921]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Boxing_Russian" FILE="../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Content/Boxing_Russian.uasset" SILENT=true
+[2019.02.13-19.31.17:460][921]LogSavePackage: Moving '../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Saved/Boxing_RussianD5CE08AF48AC770730DA62B3D7B55CB8.tmp' to '../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Content/Boxing_Russian.uasset'
+[2019.02.13-19.31.17:499][921]LogSavePackage: Moving '../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Saved/Boxing_Russian_PhysicsAsset140432FF4100BE7F12AFC8A87869ECC5.tmp' to '../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Content/Boxing_Russian_PhysicsAsset.uasset'
+[2019.02.13-19.31.17:518][921]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Boxing_Russian_Anim" FILE="../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Content/Boxing_Russian_Anim.uasset" SILENT=true
+[2019.02.13-19.31.17:535][921]LogSavePackage: Moving '../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Saved/Boxing_Russian_Anim8AA4065944EBF483F6167EB0E51AA36B.tmp' to '../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Content/Boxing_Russian_Anim.uasset'
+[2019.02.13-19.35.19:776][581]LogSavePackage: Moving '../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Saved/FuseAssignment333B572F44D7698A1986E08D88EF7FA2.tmp' to '../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Content/Russian_Char/FuseAssignment.umap'
+[2019.02.13-19.35.27:636][512]MapCheck: New page: Map Check
+[2019.02.13-19.35.27:651][512]LightingResults: New page: Lighting Build - Feb 13, 2019, 5:35:27 AM
+[2019.02.13-19.35.27:703][512]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.02.13-19.35.27:780][512]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.02.13-19.35.27:797][512]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.02.13-19.35.28:317][512]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.02.13-19.35.28:317][512]LogSwarmInterface: [TryOpenConnection] Local Process ID is 16220
+[2019.02.13-19.35.31:412][512]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.02.13-19.35.31:412][512]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.02.13-19.35.31:412][512]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.02.13-19.35.31:412][512]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.02.13-19.35.31:412][512]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.02.13-19.35.31:413][512]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.02.13-19.35.31:592][512]LogEditorBuildUtils: Build time 0:03
+[2019.02.13-19.35.31:601][512]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer DefaultMaterial, compiling. 
+[2019.02.13-19.35.31:610][512]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer DefaultMaterial, compiling. 
+[2019.02.13-19.35.31:617][512]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.02.13-19.35.31:635][513]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2019.02.13-19.35.31:644][513]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.13-19.35.31:644][513]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2019.02.13-19.35.31:651][513]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.13-19.35.31:673][514]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2019.02.13-19.35.31:686][514]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.13-19.35.31:686][514]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2019.02.13-19.35.32:730][515]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.13-19.35.34:763][612]Job is a success!
+[2019.02.13-19.35.34:798][613]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.009s
+[2019.02.13-19.35.34:798][613]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.02.13-19.35.34:799][613]LogVolumetricLightmapImport:      BrickData 30x5x5 = 0.0Mb
+[2019.02.13-19.35.34:799][613]LogVolumetricLightmapImport:      Bricks at Level
+[2019.02.13-19.35.34:799][613]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2019.02.13-19.35.34:799][613]LogVolumetricLightmapImport:          1: 16.7% covering 1.6% of volume
+[2019.02.13-19.35.34:799][613]LogVolumetricLightmapImport:          2: 66.7% covering 0.1% of volume
+[2019.02.13-19.35.34:834][613]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2019.02.13-19.35.34:834][613]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2019.02.13-19.35.34:834][613]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2019.02.13-19.35.34:834][613]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2019.02.13-19.35.34:834][613]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2019.02.13-19.35.34:834][613]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 128X128)
+[2019.02.13-19.35.34:857][613]Lightmass on eae-n-077: 927 ms total, 138 ms importing, 19 ms setup, 388 ms photons, 350 ms processing, 0 ms extra exporting [2/2 mappings]. Threads: 2.29 sec total, 133 ms processing.
+[2019.02.13-19.35.34:882][613]LogStaticLightingSystem: Illumination: 7.21 sec (21 ms encoding lightmaps, 5 ms encoding shadowmaps)
+[2019.02.13-19.35.34:882][613]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2019.02.13-19.35.34:882][613]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2019.02.13-19.35.35:422][613]DumpUnbuiltLightIteractions
+[2019.02.13-19.35.35:422][613]Lights with unbuilt interactions: 0
+[2019.02.13-19.35.35:422][613]
+[2019.02.13-19.35.35:422][613]Primitives with unbuilt interactions: 0
+[2019.02.13-19.35.35:483][614]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.02.13-19.35.35:483][614]MapCheck: New page: FuseAssignment - Feb 13, 2019, 5:35:35 AM
+[2019.02.13-19.35.35:489][614]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 5.773ms to complete.
+[2019.02.13-19.36.47:169][173]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (EyeLashesFixed_Russian_PhysicsAsset)
+[2019.02.13-19.37.56:691][227]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.13-19.38.11:653][768]LogSavePackage: Moving '../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Saved/FuseAssignment56F0DDBB49462E277ABAA4B52F898233.tmp' to '../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Content/Russian_Char/FuseAssignment.umap'
+[2019.02.13-19.38.11:671][768]LogFileHelpers: Saving map 'FuseAssignment' took 0.149
+[2019.02.13-19.38.11:688][768]LogSavePackage: Moving '../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Saved/FuseAssignment_BuiltData5CE592D943BE14D5F3EA91AEDA064D33.tmp' to '../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Content/Russian_Char/FuseAssignment_BuiltData.uasset'
+[2019.02.13-19.38.14:088][ 38]LogSavePackage: Moving '../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Saved/FuseAssignment6A12DC9B49D0572F7BFBC6922A3D21BE.tmp' to '../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Content/Russian_Char/FuseAssignment.umap'
+[2019.02.13-19.38.14:127][ 38]LogSavePackage: Moving '../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Saved/FuseAssignment_BuiltData0209C70C432E4E52C57E62B27B3E1670.tmp' to '../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Content/Russian_Char/FuseAssignment_BuiltData.uasset'
+[2019.02.13-19.39.25:185][317]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.13-19.39.25:345][333]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Russian_Char/Russian_Body_Diffuse.Russian_Body_Diffuse
+[2019.02.13-19.39.25:359][333]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.02.13-19.39.31:994][ 40]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.13-19.40.26:211][ 64]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.13-19.40.29:261][399]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.13-19.40.32:037][612]LogSlate: Window 'Editor Preferences' being destroyed
+[2019.02.13-19.40.32:044][612]LogSlate: Window 'Editor Preferences' being destroyed
+[2019.02.13-19.40.38:176][282]LogSlate: Window 'Russian_Body_Diffuse' being destroyed
+[2019.02.13-19.40.48:307][210]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Russian_Char/Russian_Body_Diffuse.Russian_Body_Diffuse
+[2019.02.13-19.43.04:530][340]LogSlate: Window 'Save Asset As' being destroyed
+[2019.02.13-19.43.15:002][401]LogSlate: Window 'Editor Preferences' being destroyed
+[2019.02.13-19.43.15:008][401]LogSlate: Window 'Editor Preferences' being destroyed
+[2019.02.13-19.43.40:178][181]LogSlate: Window 'Russian_Body_Diffuse' being destroyed
+[2019.02.13-19.43.40:182][181]LogSlate: Window 'Russian_Body_Diffuse' being destroyed
+[2019.02.13-19.43.48:414][110]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Russian_Char/Russian_Body_Diffuse.Russian_Body_Diffuse
+[2019.02.13-19.44.27:444][467]LogSlate: Window 'Russian_Body_Diffuse' being destroyed
+[2019.02.13-19.44.37:242][456]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Russian_Char/Russian_Body_Diffuse.Russian_Body_Diffuse
+[2019.02.13-19.44.51:856][995]LogSlate: Window 'Russian_Body_Diffuse' being destroyed
+[2019.02.13-19.44.51:861][995]LogSlate: Window 'Russian_Body_Diffuse' being destroyed
+[2019.02.13-19.45.02:764][187]LogAssetEditorManager: Opening Asset editor for Material /Game/Russian_Char/Bodymat.Bodymat
+[2019.02.13-19.45.02:773][187]LogMaterial: Display: Missing cached shader map for material Bodymat, compiling. 
+[2019.02.13-19.45.02:936][187]LogMaterial: Display: Missing cached shader map for material Bodymat, compiling. 
+[2019.02.13-19.45.02:976][187]LogShaderCompilers: Display: Shaders left to compile 59
+[2019.02.13-19.45.02:976][187]LogShaderCompilers: Display: Shaders left to compile 58
+[2019.02.13-19.45.02:976][187]LogShaderCompilers: Display: Shaders left to compile 57
+[2019.02.13-19.45.02:976][187]LogShaderCompilers: Display: Shaders left to compile 56
+[2019.02.13-19.45.02:990][187]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.02.13-19.45.02:996][187]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.02.13-19.45.03:001][187]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2019.02.13-19.45.03:008][187]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2019.02.13-19.45.03:016][187]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2019.02.13-19.45.03:413][194]LogShaderCompilers: Display: Shaders left to compile 65
+[2019.02.13-19.45.03:445][196]LogShaderCompilers: Display: Shaders left to compile 64
+[2019.02.13-19.45.03:445][196]LogShaderCompilers: Display: Shaders left to compile 63
+[2019.02.13-19.45.03:461][197]LogShaderCompilers: Display: Shaders left to compile 62
+[2019.02.13-19.45.03:593][204]LogShaderCompilers: Display: Shaders left to compile 61
+[2019.02.13-19.45.03:629][205]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.02.13-19.45.03:650][207]LogShaderCompilers: Display: Shaders left to compile 59
+[2019.02.13-19.45.03:650][207]LogShaderCompilers: Display: Shaders left to compile 58
+[2019.02.13-19.45.03:782][215]LogShaderCompilers: Display: Shaders left to compile 57
+[2019.02.13-19.45.03:929][222]LogShaderCompilers: Display: Shaders left to compile 56
+[2019.02.13-19.45.04:085][230]LogShaderCompilers: Display: Shaders left to compile 55
+[2019.02.13-19.45.04:103][231]LogShaderCompilers: Display: Shaders left to compile 54
+[2019.02.13-19.45.04:226][238]LogShaderCompilers: Display: Shaders left to compile 53
+[2019.02.13-19.45.04:342][243]LogShaderCompilers: Display: Shaders left to compile 52
+[2019.02.13-19.45.04:367][244]LogShaderCompilers: Display: Shaders left to compile 51
+[2019.02.13-19.45.04:563][254]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.02.13-19.45.04:617][257]LogShaderCompilers: Display: Shaders left to compile 49
+[2019.02.13-19.45.04:699][262]LogShaderCompilers: Display: Shaders left to compile 48
+[2019.02.13-19.45.04:772][266]LogShaderCompilers: Display: Shaders left to compile 47
+[2019.02.13-19.45.04:907][273]LogShaderCompilers: Display: Shaders left to compile 46
+[2019.02.13-19.45.04:960][276]LogShaderCompilers: Display: Shaders left to compile 45
+[2019.02.13-19.45.04:995][278]LogShaderCompilers: Display: Shaders left to compile 44
+[2019.02.13-19.45.05:033][280]LogShaderCompilers: Display: Shaders left to compile 43
+[2019.02.13-19.45.05:209][287]LogShaderCompilers: Display: Shaders left to compile 42
+[2019.02.13-19.45.05:209][287]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.02.13-19.45.05:224][288]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.02.13-19.45.05:256][290]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.02.13-19.45.05:437][299]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.02.13-19.45.05:583][307]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.02.13-19.45.05:667][312]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.02.13-19.45.05:679][313]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.02.13-19.45.05:835][322]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.02.13-19.45.05:946][328]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.02.13-19.45.06:029][333]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.02.13-19.45.06:103][337]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.02.13-19.45.06:240][345]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.02.13-19.45.06:278][347]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.02.13-19.45.06:432][356]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.02.13-19.45.06:516][362]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.02.13-19.45.06:527][363]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.02.13-19.45.06:527][363]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.02.13-19.45.06:644][370]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.02.13-19.45.06:748][375]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.02.13-19.45.06:764][376]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.02.13-19.45.06:764][376]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.13-19.45.06:874][382]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.13-19.45.06:958][386]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.13-19.45.07:168][396]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.13-19.45.07:187][397]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.13-19.45.07:239][400]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.13-19.45.07:371][407]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.13-19.45.07:475][412]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.13-19.45.07:629][420]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.02.13-19.45.07:725][425]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.13-19.45.07:743][426]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.13-19.45.07:876][433]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.02.13-19.45.08:000][440]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.02.13-19.45.08:000][440]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.02.13-19.45.08:146][447]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.02.13-19.45.08:176][448]MaterialEditorStats: Base pass shader: 115 instructions
+[2019.02.13-19.45.08:176][448]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 189 instructions
+[2019.02.13-19.45.08:176][448]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.02.13-19.45.08:176][448]MaterialEditorStats: Base pass vertex shader: 87 instructions
+[2019.02.13-19.45.08:176][448]MaterialEditorStats: Texture samplers: 7/16
+[2019.02.13-19.45.08:176][448]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2019.02.13-19.45.08:176][448]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.02.13-19.45.08:197][449]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.02.13-19.45.08:270][453]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.02.13-19.45.08:310][455]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.02.13-19.45.08:396][460]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.02.13-19.45.08:540][467]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.13-19.45.08:540][467]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.13-19.45.10:273][609]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Russian_Char/Russian_Body_Diffuse.Russian_Body_Diffuse
+[2019.02.13-19.45.27:712][442]LogSlate: Window 'Russian_Body_Diffuse' being destroyed
+[2019.02.13-19.45.27:715][442]LogSlate: Window 'Russian_Body_Diffuse' being destroyed
+[2019.02.13-19.45.43:880][183]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Russian_Char/Russian_Body_Diffuse.Russian_Body_Diffuse
+[2019.02.13-19.46.39:563][718]LogSlate: Window 'Russian_Body_Diffuse' being destroyed
+[2019.02.13-19.46.39:567][718]LogSlate: Window 'Russian_Body_Diffuse' being destroyed
+[2019.02.13-19.46.46:875][484]LogAssetEditorManager: Opening Asset editor for Material /Game/Russian_Char/Bodymat.Bodymat
+[2019.02.13-19.46.46:878][484]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.02.13-19.46.46:978][484]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.02.13-19.46.47:004][484]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.02.13-19.46.47:047][484]LogShaderCompilers: Display: Shaders left to compile 59
+[2019.02.13-19.46.47:047][484]LogShaderCompilers: Display: Shaders left to compile 58
+[2019.02.13-19.46.47:047][484]LogShaderCompilers: Display: Shaders left to compile 57
+[2019.02.13-19.46.47:047][484]LogShaderCompilers: Display: Shaders left to compile 56
+[2019.02.13-19.46.47:061][484]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.02.13-19.46.47:066][484]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.02.13-19.46.47:072][484]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2019.02.13-19.46.47:081][484]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2019.02.13-19.46.47:091][484]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2019.02.13-19.46.47:462][497]LogShaderCompilers: Display: Shaders left to compile 65
+[2019.02.13-19.46.47:511][500]LogShaderCompilers: Display: Shaders left to compile 64
+[2019.02.13-19.46.47:511][500]LogShaderCompilers: Display: Shaders left to compile 63
+[2019.02.13-19.46.47:511][500]LogShaderCompilers: Display: Shaders left to compile 62
+[2019.02.13-19.46.47:635][507]LogShaderCompilers: Display: Shaders left to compile 61
+[2019.02.13-19.46.47:686][509]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.02.13-19.46.47:721][511]LogShaderCompilers: Display: Shaders left to compile 59
+[2019.02.13-19.46.47:738][512]LogShaderCompilers: Display: Shaders left to compile 58
+[2019.02.13-19.46.47:825][517]LogShaderCompilers: Display: Shaders left to compile 57
+[2019.02.13-19.46.48:038][527]LogShaderCompilers: Display: Shaders left to compile 56
+[2019.02.13-19.46.48:171][534]LogShaderCompilers: Display: Shaders left to compile 55
+[2019.02.13-19.46.48:224][537]LogShaderCompilers: Display: Shaders left to compile 54
+[2019.02.13-19.46.48:264][539]LogShaderCompilers: Display: Shaders left to compile 53
+[2019.02.13-19.46.48:448][549]LogShaderCompilers: Display: Shaders left to compile 52
+[2019.02.13-19.46.48:490][551]LogShaderCompilers: Display: Shaders left to compile 51
+[2019.02.13-19.46.48:710][562]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.02.13-19.46.48:711][562]LogShaderCompilers: Display: Shaders left to compile 49
+[2019.02.13-19.46.48:772][565]LogShaderCompilers: Display: Shaders left to compile 48
+[2019.02.13-19.46.48:934][573]LogShaderCompilers: Display: Shaders left to compile 47
+[2019.02.13-19.46.49:047][579]LogShaderCompilers: Display: Shaders left to compile 46
+[2019.02.13-19.46.49:065][580]LogShaderCompilers: Display: Shaders left to compile 45
+[2019.02.13-19.46.49:152][585]LogShaderCompilers: Display: Shaders left to compile 44
+[2019.02.13-19.46.49:152][585]LogShaderCompilers: Display: Shaders left to compile 43
+[2019.02.13-19.46.49:276][591]LogShaderCompilers: Display: Shaders left to compile 42
+[2019.02.13-19.46.49:300][592]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.02.13-19.46.49:378][597]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.02.13-19.46.49:394][598]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.02.13-19.46.49:495][604]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.02.13-19.46.49:708][615]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.02.13-19.46.49:744][617]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.02.13-19.46.49:827][622]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.02.13-19.46.49:937][628]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.02.13-19.46.50:042][634]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.02.13-19.46.50:151][640]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.02.13-19.46.50:279][647]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.02.13-19.46.50:323][650]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.02.13-19.46.50:411][655]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.02.13-19.46.50:537][662]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.02.13-19.46.50:626][668]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.02.13-19.46.50:653][670]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.02.13-19.46.50:686][672]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.02.13-19.46.50:776][678]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.02.13-19.46.50:844][683]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.02.13-19.46.50:857][684]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.02.13-19.46.50:857][684]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.13-19.46.50:947][690]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.13-19.46.51:021][695]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.13-19.46.51:228][705]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.13-19.46.51:283][708]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.13-19.46.51:301][709]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.13-19.46.51:429][717]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.13-19.46.51:551][723]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.13-19.46.51:704][731]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.02.13-19.46.51:765][734]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.13-19.46.51:831][738]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.13-19.46.51:916][743]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.02.13-19.46.52:078][751]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.02.13-19.46.52:116][753]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.02.13-19.46.52:186][757]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.02.13-19.46.52:206][758]MaterialEditorStats: Base pass shader: 115 instructions
+[2019.02.13-19.46.52:206][758]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 189 instructions
+[2019.02.13-19.46.52:206][758]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.02.13-19.46.52:207][758]MaterialEditorStats: Base pass vertex shader: 87 instructions
+[2019.02.13-19.46.52:207][758]MaterialEditorStats: Texture samplers: 7/16
+[2019.02.13-19.46.52:207][758]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2019.02.13-19.46.52:207][758]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.02.13-19.46.52:245][760]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.02.13-19.46.52:334][764]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.02.13-19.46.52:446][770]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.02.13-19.46.52:446][770]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.02.13-19.46.52:564][776]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.13-19.46.52:604][778]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.13-19.47.19:383][215]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Russian_Char/Russian_Body_Diffuse.Russian_Body_Diffuse
+[2019.02.13-19.47.32:056][592]LogSlate: Window 'Russian_Body_Diffuse' being destroyed
+[2019.02.13-19.47.32:060][592]LogSlate: Window 'Russian_Body_Diffuse' being destroyed
+[2019.02.13-19.47.37:703][215]LogSavePackage: Moving '../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Saved/FuseAssignmentA46C7F8A46DE06AD01147BA54E4BDAD1.tmp' to '../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Content/Russian_Char/FuseAssignment.umap'
+[2019.02.13-19.47.37:753][215]LogSavePackage: Moving '../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Saved/FuseAssignment_BuiltData43DF822C4CDE0E0396E115ACE0C1E034.tmp' to '../../../../../../Users/u0957469/Documents/GitHub/IM-Fuse/Russian Texture Done/Content/Russian_Char/FuseAssignment_BuiltData.uasset'
+[2019.02.13-19.47.39:074][320]LogSlate: Window 'MyProject2 - Unreal Editor' being destroyed
+[2019.02.13-19.47.39:075][320]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.02.13-19.47.39:282][321]Cmd: QUIT_EDITOR
+[2019.02.13-19.47.39:312][321]LogExit: Preparing to exit.
+[2019.02.13-19.47.40:000][321]LogExit: Editor shut down
+[2019.02.13-19.47.40:000][321]LogExit: Transaction tracking system shut down
+[2019.02.13-19.47.40:201][321]LogExit: Object subsystem successfully closed.
+[2019.02.13-19.47.40:216][321]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.02.13-19.47.40:218][321]LogD3D11RHI: Shutdown
+[2019.02.13-19.47.40:218][321]LogD3D11RHI: CleanupD3DDevice
+[2019.02.13-19.47.40:222][321]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.02.13-19.47.40:249][321]LogModuleManager: Shutting down and abandoning module TextureEditor (640)
+[2019.02.13-19.47.40:249][321]LogModuleManager: Shutting down and abandoning module AnimationEditor (638)
+[2019.02.13-19.47.40:249][321]LogModuleManager: Shutting down and abandoning module PhysicsAssetEditor (636)
+[2019.02.13-19.47.40:249][321]LogModuleManager: Shutting down and abandoning module ClothingSystemEditorInterface (634)
+[2019.02.13-19.47.40:249][321]LogModuleManager: Shutting down and abandoning module PinnedCommandList (632)
+[2019.02.13-19.47.40:249][321]LogModuleManager: Shutting down and abandoning module SkeletonEditor (630)
+[2019.02.13-19.47.40:249][321]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (628)
+[2019.02.13-19.47.40:250][321]LogModuleManager: Shutting down and abandoning module SceneOutliner (626)
+[2019.02.13-19.47.40:250][321]LogModuleManager: Shutting down and abandoning module AddContentDialog (624)
+[2019.02.13-19.47.40:250][321]LogModuleManager: Shutting down and abandoning module WidgetCarousel (623)
+[2019.02.13-19.47.40:250][321]LogModuleManager: Shutting down and abandoning module EditorWidgets (620)
+[2019.02.13-19.47.40:250][321]LogModuleManager: Shutting down and abandoning module CollectionManager (618)
+[2019.02.13-19.47.40:250][321]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (616)
+[2019.02.13-19.47.40:250][321]LogModuleManager: Shutting down and abandoning module StatsViewer (614)
+[2019.02.13-19.47.40:250][321]LogModuleManager: Shutting down and abandoning module FoliageEdit (612)
+[2019.02.13-19.47.40:250][321]LogModuleManager: Shutting down and abandoning module LandscapeEditor (610)
+[2019.02.13-19.47.40:250][321]LogModuleManager: Shutting down and abandoning module MeshPaintMode (608)
+[2019.02.13-19.47.40:250][321]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (606)
+[2019.02.13-19.47.40:250][321]LogModuleManager: Shutting down and abandoning module ActorPickerMode (604)
+[2019.02.13-19.47.40:250][321]LogModuleManager: Shutting down and abandoning module GeometryMode (602)
+[2019.02.13-19.47.40:250][321]LogModuleManager: Shutting down and abandoning module TextureAlignMode (600)
+[2019.02.13-19.47.40:250][321]LogModuleManager: Shutting down and abandoning module BspMode (598)
+[2019.02.13-19.47.40:250][321]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (596)
+[2019.02.13-19.47.40:250][321]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (594)
+[2019.02.13-19.47.40:250][321]LogModuleManager: Shutting down and abandoning module AutomationWorker (592)
+[2019.02.13-19.47.40:250][321]LogModuleManager: Shutting down and abandoning module HoudiniEngineEditor (590)
+[2019.02.13-19.47.40:250][321]LogHoudiniEngineEditor: Shutting down the Houdini Engine Editor module.
+[2019.02.13-19.47.40:250][321]LogHoudiniEngineEditor: Houdini Engine Editor module shutdown complete.
+[2019.02.13-19.47.40:251][321]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (588)
+[2019.02.13-19.47.40:251][321]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (586)
+[2019.02.13-19.47.40:251][321]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (584)
+[2019.02.13-19.47.40:251][321]LogModuleManager: Shutting down and abandoning module PlacementMode (583)
+[2019.02.13-19.47.40:251][321]LogModuleManager: Shutting down and abandoning module MaterialEditor (582)
+[2019.02.13-19.47.40:251][321]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (578)
+[2019.02.13-19.47.40:251][321]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (576)
+[2019.02.13-19.47.40:251][321]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (574)
+[2019.02.13-19.47.40:251][321]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (572)
+[2019.02.13-19.47.40:251][321]LogModuleManager: Shutting down and abandoning module WebMMedia (570)
+[2019.02.13-19.47.40:251][321]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (568)
+[2019.02.13-19.47.40:251][321]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (566)
+[2019.02.13-19.47.40:251][321]LogModuleManager: Shutting down and abandoning module SequenceRecorder (565)
+[2019.02.13-19.47.40:251][321]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (562)
+[2019.02.13-19.47.40:251][321]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (560)
+[2019.02.13-19.47.40:251][321]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (558)
+[2019.02.13-19.47.40:251][321]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (556)
+[2019.02.13-19.47.40:251][321]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (554)
+[2019.02.13-19.47.40:251][321]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (552)
+[2019.02.13-19.47.40:251][321]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (550)
+[2019.02.13-19.47.40:251][321]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (548)
+[2019.02.13-19.47.40:251][321]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (546)
+[2019.02.13-19.47.40:251][321]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (544)
+[2019.02.13-19.47.40:251][321]LogModuleManager: Shutting down and abandoning module CharacterAI (542)
+[2019.02.13-19.47.40:251][321]LogModuleManager: Shutting down and abandoning module SmartSnapping (540)
+[2019.02.13-19.47.40:251][321]LogModuleManager: Shutting down and abandoning module SessionServices (538)
+[2019.02.13-19.47.40:251][321]LogModuleManager: Shutting down and abandoning module ViewportSnapping (536)
+[2019.02.13-19.47.40:251][321]LogModuleManager: Shutting down and abandoning module ViewportInteraction (534)
+[2019.02.13-19.47.40:251][321]LogModuleManager: Shutting down and abandoning module ClothPainter (532)
+[2019.02.13-19.47.40:251][321]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (531)
+[2019.02.13-19.47.40:251][321]LogModuleManager: Shutting down and abandoning module LogVisualizer (528)
+[2019.02.13-19.47.40:251][321]LogModuleManager: Shutting down and abandoning module IntroTutorials (526)
+[2019.02.13-19.47.40:251][321]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (525)
+[2019.02.13-19.47.40:251][321]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (522)
+[2019.02.13-19.47.40:251][321]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (520)
+[2019.02.13-19.47.40:251][321]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (518)
+[2019.02.13-19.47.40:251][321]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (516)
+[2019.02.13-19.47.40:251][321]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (515)
+[2019.02.13-19.47.40:957][321]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (512)
+[2019.02.13-19.47.40:957][321]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (510)
+[2019.02.13-19.47.40:957][321]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (508)
+[2019.02.13-19.47.40:957][321]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (506)
+[2019.02.13-19.47.40:957][321]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (504)
+[2019.02.13-19.47.40:957][321]LogModuleManager: Shutting down and abandoning module InputBindingEditor (502)
+[2019.02.13-19.47.40:957][321]LogModuleManager: Shutting down and abandoning module MergeActors (500)
+[2019.02.13-19.47.40:957][321]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (498)
+[2019.02.13-19.47.40:957][321]LogModuleManager: Shutting down and abandoning module LocalizationService (497)
+[2019.02.13-19.47.40:957][321]LogModuleManager: Shutting down and abandoning module HardwareTargeting (494)
+[2019.02.13-19.47.40:957][321]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (492)
+[2019.02.13-19.47.40:957][321]LogModuleManager: Shutting down and abandoning module UndoHistory (490)
+[2019.02.13-19.47.40:957][321]LogModuleManager: Shutting down and abandoning module XmlParser (488)
+[2019.02.13-19.47.40:957][321]LogModuleManager: Shutting down and abandoning module Blutility (486)
+[2019.02.13-19.47.40:957][321]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (484)
+[2019.02.13-19.47.40:957][321]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (483)
+[2019.02.13-19.47.40:958][321]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (480)
+[2019.02.13-19.47.40:958][321]LogModuleManager: Shutting down and abandoning module SettingsEditor (478)
+[2019.02.13-19.47.40:958][321]LogModuleManager: Shutting down and abandoning module ProjectLauncher (476)
+[2019.02.13-19.47.40:958][321]LogModuleManager: Shutting down and abandoning module SessionFrontend (474)
+[2019.02.13-19.47.40:958][321]LogModuleManager: Shutting down and abandoning module ProfilerClient (472)
+[2019.02.13-19.47.40:958][321]LogModuleManager: Shutting down and abandoning module DeviceManager (470)
+[2019.02.13-19.47.40:958][321]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (469)
+[2019.02.13-19.47.41:023][321]LogModuleManager: Shutting down and abandoning module AutomationController (466)
+[2019.02.13-19.47.41:023][321]LogModuleManager: Shutting down and abandoning module AutomationWindow (464)
+[2019.02.13-19.47.41:023][321]LogModuleManager: Shutting down and abandoning module Layers (462)
+[2019.02.13-19.47.41:023][321]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (460)
+[2019.02.13-19.47.41:023][321]LogModuleManager: Shutting down and abandoning module DetailCustomizations (458)
+[2019.02.13-19.47.41:023][321]LogModuleManager: Shutting down and abandoning module PackagesDialog (456)
+[2019.02.13-19.47.41:023][321]LogModuleManager: Shutting down and abandoning module Persona (454)
+[2019.02.13-19.47.41:023][321]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (453)
+[2019.02.13-19.47.41:023][321]LogModuleManager: Shutting down and abandoning module AnimGraph (451)
+[2019.02.13-19.47.41:023][321]LogModuleManager: Shutting down and abandoning module Kismet (448)
+[2019.02.13-19.47.41:023][321]LogModuleManager: Shutting down and abandoning module GraphEditor (446)
+[2019.02.13-19.47.41:023][321]LogModuleManager: Shutting down and abandoning module ClassViewer (444)
+[2019.02.13-19.47.41:023][321]LogModuleManager: Shutting down and abandoning module Toolbox (442)
+[2019.02.13-19.47.41:023][321]LogModuleManager: Shutting down and abandoning module ModuleUI (440)
+[2019.02.13-19.47.41:023][321]LogModuleManager: Shutting down and abandoning module MovieSceneTools (438)
+[2019.02.13-19.47.41:023][321]LogModuleManager: Shutting down and abandoning module OutputLog (436)
+[2019.02.13-19.47.41:023][321]LogModuleManager: Shutting down and abandoning module GammaUI (434)
+[2019.02.13-19.47.41:023][321]LogModuleManager: Shutting down and abandoning module Documentation (432)
+[2019.02.13-19.47.41:023][321]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (430)
+[2019.02.13-19.47.41:023][321]LogModuleManager: Shutting down and abandoning module MovieScene (428)
+[2019.02.13-19.47.41:023][321]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (426)
+[2019.02.13-19.47.41:023][321]LogModuleManager: Shutting down and abandoning module LauncherPlatform (424)
+[2019.02.13-19.47.41:023][321]LogModuleManager: Shutting down and abandoning module AnalyticsET (422)
+[2019.02.13-19.47.41:023][321]LogModuleManager: Shutting down and abandoning module PortalServices (420)
+[2019.02.13-19.47.41:023][321]LogModuleManager: Shutting down and abandoning module PortalRpc (418)
+[2019.02.13-19.47.41:023][321]LogModuleManager: Shutting down and abandoning module MessagingRpc (416)
+[2019.02.13-19.47.41:023][321]LogModuleManager: Shutting down and abandoning module AIModule (414)
+[2019.02.13-19.47.41:024][321]LogModuleManager: Shutting down and abandoning module GameplayDebugger (413)
+[2019.02.13-19.47.41:024][321]LogModuleManager: Shutting down and abandoning module AITestSuite (411)
+[2019.02.13-19.47.41:024][321]LogModuleManager: Shutting down and abandoning module NavigationSystem (409)
+[2019.02.13-19.47.41:024][321]LogModuleManager: Shutting down and abandoning module DesktopPlatform (406)
+[2019.02.13-19.47.41:024][321]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (404)
+[2019.02.13-19.47.41:026][321]LogModuleManager: Shutting down and abandoning module ProfilerService (402)
+[2019.02.13-19.47.41:197][321]LogModuleManager: Shutting down and abandoning module TaskGraph (400)
+[2019.02.13-19.47.41:197][321]LogModuleManager: Shutting down and abandoning module SteamVRController (398)
+[2019.02.13-19.47.41:197][321]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (396)
+[2019.02.13-19.47.41:197][321]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (394)
+[2019.02.13-19.47.41:197][321]LogModuleManager: Shutting down and abandoning module OculusInput (392)
+[2019.02.13-19.47.41:197][321]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (390)
+[2019.02.13-19.47.41:197][321]LogModuleManager: Shutting down and abandoning module HoudiniEngineRuntime (388)
+[2019.02.13-19.47.41:197][321]LogHoudiniEngine: Shutting down the Houdini Engine module.
+[2019.02.13-19.47.41:199][321]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2019.02.13-19.47.41:199][321]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2019.02.13-19.47.41:199][321]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2019.02.13-19.47.41:199][321]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2019.02.13-19.47.41:199][321]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2019.02.13-19.47.41:199][321]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2019.02.13-19.47.41:199][321]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2019.02.13-19.47.41:199][321]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2019.02.13-19.47.41:199][321]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
+[2019.02.13-19.47.41:199][321]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
+[2019.02.13-19.47.41:199][321]LogModuleManager: Shutting down and abandoning module ImgMedia (366)
+[2019.02.13-19.47.41:202][321]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2019.02.13-19.47.41:202][321]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2019.02.13-19.47.41:202][321]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2019.02.13-19.47.41:202][321]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2019.02.13-19.47.41:202][321]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2019.02.13-19.47.41:202][321]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2019.02.13-19.47.41:202][321]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.02.13-19.47.41:202][321]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.02.13-19.47.41:202][321]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.02.13-19.47.41:202][321]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.02.13-19.47.41:202][321]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.02.13-19.47.41:202][321]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2019.02.13-19.47.41:202][321]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2019.02.13-19.47.41:202][321]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.02.13-19.47.41:202][321]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.02.13-19.47.41:202][321]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.02.13-19.47.41:202][321]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2019.02.13-19.47.41:202][321]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2019.02.13-19.47.41:202][321]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.02.13-19.47.41:202][321]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.02.13-19.47.41:202][321]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.02.13-19.47.41:202][321]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.02.13-19.47.41:202][321]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.02.13-19.47.41:202][321]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.02.13-19.47.41:202][321]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.02.13-19.47.41:202][321]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.02.13-19.47.41:202][321]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.02.13-19.47.41:202][321]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.02.13-19.47.41:202][321]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2019.02.13-19.47.41:202][321]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2019.02.13-19.47.41:202][321]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2019.02.13-19.47.41:202][321]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2019.02.13-19.47.41:202][321]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2019.02.13-19.47.41:202][321]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2019.02.13-19.47.41:202][321]LogModuleManager: Shutting down and abandoning module MeshPaint (297)
+[2019.02.13-19.47.41:202][321]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
+[2019.02.13-19.47.41:202][321]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
+[2019.02.13-19.47.41:202][321]LogModuleManager: Shutting down and abandoning module PhysXVehicles (290)
+[2019.02.13-19.47.41:202][321]LogModuleManager: Shutting down and abandoning module OculusEditor (288)
+[2019.02.13-19.47.41:203][321]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.02.13-19.47.41:203][321]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.02.13-19.47.41:203][321]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.02.13-19.47.41:304][321]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.02.13-19.47.41:405][321]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.02.13-19.47.41:405][321]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.02.13-19.47.41:405][321]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.02.13-19.47.41:405][321]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.02.13-19.47.41:405][321]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.02.13-19.47.41:405][321]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.02.13-19.47.41:405][321]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.02.13-19.47.41:405][321]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.02.13-19.47.41:405][321]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.02.13-19.47.41:405][321]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.02.13-19.47.41:405][321]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.02.13-19.47.41:406][321]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.02.13-19.47.41:407][321]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.02.13-19.47.41:407][321]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.02.13-19.47.41:407][321]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.02.13-19.47.41:407][321]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.02.13-19.47.41:407][321]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.02.13-19.47.41:407][321]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2019.02.13-19.47.41:407][321]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2019.02.13-19.47.41:411][321]LogModuleManager: Shutting down and abandoning module Media (241)
+[2019.02.13-19.47.41:417][321]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2019.02.13-19.47.41:417][321]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2019.02.13-19.47.41:417][321]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2019.02.13-19.47.41:417][321]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2019.02.13-19.47.41:417][321]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2019.02.13-19.47.41:417][321]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2019.02.13-19.47.41:417][321]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2019.02.13-19.47.41:417][321]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2019.02.13-19.47.41:417][321]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2019.02.13-19.47.41:417][321]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2019.02.13-19.47.41:417][321]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2019.02.13-19.47.41:417][321]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2019.02.13-19.47.41:417][321]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2019.02.13-19.47.41:417][321]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2019.02.13-19.47.41:418][321]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2019.02.13-19.47.41:418][321]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2019.02.13-19.47.41:418][321]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2019.02.13-19.47.41:418][321]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2019.02.13-19.47.41:418][321]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2019.02.13-19.47.41:418][321]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2019.02.13-19.47.41:419][321]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.02.13-19.47.41:419][321]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.02.13-19.47.41:419][321]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.02.13-19.47.41:419][321]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.02.13-19.47.41:419][321]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.02.13-19.47.41:419][321]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.02.13-19.47.41:419][321]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2019.02.13-19.47.41:419][321]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2019.02.13-19.47.41:419][321]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2019.02.13-19.47.41:419][321]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2019.02.13-19.47.41:419][321]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2019.02.13-19.47.41:419][321]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2019.02.13-19.47.41:419][321]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2019.02.13-19.47.41:419][321]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2019.02.13-19.47.41:419][321]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2019.02.13-19.47.41:419][321]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2019.02.13-19.47.41:419][321]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2019.02.13-19.47.41:419][321]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2019.02.13-19.47.41:457][321]LogDerivedDataCache: Shutdown
+[2019.02.13-19.47.41:457][321]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2019.02.13-19.47.41:457][321]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2019.02.13-19.47.41:457][321]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2019.02.13-19.47.41:457][321]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2019.02.13-19.47.41:457][321]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2019.02.13-19.47.41:457][321]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2019.02.13-19.47.41:457][321]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2019.02.13-19.47.41:457][321]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2019.02.13-19.47.41:457][321]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2019.02.13-19.47.41:457][321]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2019.02.13-19.47.41:458][321]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2019.02.13-19.47.41:458][321]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2019.02.13-19.47.41:458][321]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2019.02.13-19.47.41:458][321]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2019.02.13-19.47.41:458][321]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2019.02.13-19.47.41:458][321]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2019.02.13-19.47.41:458][321]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2019.02.13-19.47.41:458][321]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2019.02.13-19.47.41:458][321]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2019.02.13-19.47.41:458][321]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2019.02.13-19.47.41:458][321]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2019.02.13-19.47.41:458][321]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2019.02.13-19.47.41:458][321]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2019.02.13-19.47.41:459][321]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2019.02.13-19.47.41:459][321]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2019.02.13-19.47.41:460][321]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2019.02.13-19.47.41:460][321]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2019.02.13-19.47.41:464][321]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2019.02.13-19.47.41:464][321]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2019.02.13-19.47.41:464][321]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2019.02.13-19.47.41:464][321]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2019.02.13-19.47.41:464][321]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2019.02.13-19.47.41:464][321]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2019.02.13-19.47.41:464][321]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2019.02.13-19.47.41:464][321]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2019.02.13-19.47.41:464][321]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2019.02.13-19.47.41:464][321]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2019.02.13-19.47.41:465][321]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2019.02.13-19.47.41:465][321]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2019.02.13-19.47.41:465][321]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2019.02.13-19.47.41:465][321]LogHMD: Freeing OpenVRDLLHandle.
+[2019.02.13-19.47.41:465][321]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2019.02.13-19.47.41:465][321]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2019.02.13-19.47.41:465][321]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2019.02.13-19.47.41:465][321]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2019.02.13-19.47.41:465][321]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2019.02.13-19.47.41:465][321]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2019.02.13-19.47.41:466][321]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2019.02.13-19.47.41:501][321]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2019.02.13-19.47.41:501][321]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.02.13-19.47.41:501][321]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B97993DBF-405F-9184-267E-30B615A91578%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.1-4613538%2B%2B%2BUE4%2BRelease-4.21&UserID=e8ec4f51439e0ae4e61368b6052c8db2%7C%7Ce7b110cc-1a49-4b3b-976f-10b06697675e&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.02.13-19.47.41:504][321]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2019.02.13-19.47.41:505][321]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2019.02.13-19.47.41:505][321]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2019.02.13-19.47.41:505][321]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2019.02.13-19.47.41:505][321]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2019.02.13-19.47.41:505][321]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2019.02.13-19.47.41:505][321]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2019.02.13-19.47.41:505][321]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2019.02.13-19.47.41:505][321]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.02.13-19.47.41:505][321]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2019.02.13-19.47.41:506][321]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2019.02.13-19.47.41:506][321]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.02.13-19.47.41:507][321]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.02.13-19.47.41:507][321]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.02.13-19.47.41:507][321]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.02.13-19.47.41:507][321]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.02.13-19.47.41:507][321]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.02.13-19.47.41:507][321]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.02.13-19.47.41:507][321]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.02.13-19.47.41:507][321]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.02.13-19.47.41:507][321]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.02.13-19.47.41:507][321]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.02.13-19.47.41:507][321]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.02.13-19.47.41:507][321]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.02.13-19.47.41:507][321]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.02.13-19.47.41:507][321]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.02.13-19.47.41:507][321]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.02.13-19.47.41:507][321]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.02.13-19.47.41:507][321]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.02.13-19.47.41:514][321]LogExit: Exiting.
+[2019.02.13-19.47.41:544][321]Log file closed, 02/13/19 12:47:41
